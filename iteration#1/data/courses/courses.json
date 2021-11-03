@@ -7,8 +7,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "1",
@@ -17,8 +17,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "1",
@@ -27,8 +27,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "1",
@@ -37,8 +37,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "1",
@@ -47,8 +47,8 @@
       "courseType": "Compulsory",
       "courseHours": "4",
       "labHours": "0",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "1",
@@ -57,8 +57,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "1",
@@ -67,8 +67,8 @@
       "courseType": "Compulsory",
       "courseHours": "0",
       "labHours": "2",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "1",
@@ -77,8 +77,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "2",
@@ -87,8 +87,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "2",
@@ -97,8 +97,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "2",
@@ -107,8 +107,8 @@
       "courseType": "Compulsory",
       "courseHours": "4",
       "labHours": "0",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "2",
@@ -117,8 +117,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "2",
@@ -127,8 +127,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "2",
@@ -137,8 +137,8 @@
       "courseType": "Compulsory",
       "courseHours": "0",
       "labHours": "2",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "2",
@@ -147,8 +147,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "2",
@@ -157,8 +157,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "3",
@@ -167,8 +167,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "3",
@@ -177,8 +177,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "7,00",
-      "europeCredit": "7,00"
+      "credit": "7",
+      "europeCredit": "7"
     },
     {
       "semester": "3",
@@ -187,8 +187,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "3",
@@ -197,8 +197,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "3",
@@ -207,8 +207,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "3",
@@ -217,8 +217,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "4",
@@ -227,8 +227,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "4",
@@ -237,8 +237,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "7,00",
-      "europeCredit": "7,00"
+      "credit": "7",
+      "europeCredit": "7"
     },
     {
       "semester": "4",
@@ -247,8 +247,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "4",
@@ -257,8 +257,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "2",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "4",
@@ -267,8 +267,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "5",
@@ -277,8 +277,8 @@
       "courseType": "Compulsory",
       "courseHours": "0",
       "labHours": "0",
-      "credit": "10,00",
-      "europeCredit": "10,00"
+      "credit": "10",
+      "europeCredit": "10"
     },
     {
       "semester": "5",
@@ -287,8 +287,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "5",
@@ -297,8 +297,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "7,00",
-      "europeCredit": "7,00"
+      "credit": "7",
+      "europeCredit": "7"
     },
     {
       "semester": "5",
@@ -307,8 +307,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "7,00",
-      "europeCredit": "7,00"
+      "credit": "7",
+      "europeCredit": "7"
     },
     {
       "semester": "5",
@@ -317,8 +317,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "5",
@@ -327,8 +327,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "6",
@@ -337,8 +337,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "7,00",
-      "europeCredit": "7,00"
+      "credit": "7",
+      "europeCredit": "7"
     },
     {
       "semester": "6",
@@ -347,8 +347,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "7,00",
-      "europeCredit": "7,00"
+      "credit": "7",
+      "europeCredit": "7"
     },
     {
       "semester": "6",
@@ -357,8 +357,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "6",
@@ -367,8 +367,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "6",
@@ -377,8 +377,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "4,00",
-      "europeCredit": "4,00"
+      "credit": "4",
+      "europeCredit": "4"
     },
     {
       "semester": "6",
@@ -387,8 +387,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "7",
@@ -397,8 +397,8 @@
       "courseType": "Compulsory",
       "courseHours": "0",
       "labHours": "0",
-      "credit": "10,00",
-      "europeCredit": "10,00"
+      "credit": "10",
+      "europeCredit": "10"
     },
     {
       "semester": "7",
@@ -407,8 +407,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "7",
@@ -417,8 +417,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "2",
-      "credit": "6,00",
-      "europeCredit": "6,00"
+      "credit": "6",
+      "europeCredit": "6"
     },
     {
       "semester": "7",
@@ -427,8 +427,8 @@
       "courseType": "Compulsory",
       "courseHours": "0",
       "labHours": "2",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "7",
@@ -437,8 +437,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "7",
@@ -447,8 +447,8 @@
       "courseType": "Compulsory",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "7",
@@ -457,8 +457,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "7",
@@ -467,8 +467,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "8",
@@ -477,8 +477,8 @@
       "courseType": "Compulsory",
       "courseHours": "0",
       "labHours": "2",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "8",
@@ -487,8 +487,8 @@
       "courseType": "Compulsory",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "2,00",
-      "europeCredit": "2,00"
+      "credit": "2",
+      "europeCredit": "2"
     },
     {
       "semester": "8",
@@ -497,8 +497,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "8",
@@ -507,8 +507,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "8",
@@ -517,8 +517,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "8",
@@ -527,8 +527,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "8",
@@ -537,8 +537,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     }
   ],
   "electiveCourses": [
@@ -549,8 +549,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -559,8 +559,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -569,8 +569,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -579,8 +579,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -589,8 +589,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -599,8 +599,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -609,8 +609,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -619,8 +619,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -629,8 +629,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -639,8 +639,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -649,8 +649,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -659,8 +659,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -669,8 +669,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -679,8 +679,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -689,8 +689,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -699,8 +699,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -709,8 +709,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -719,8 +719,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -729,8 +729,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -739,8 +739,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -749,8 +749,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -759,8 +759,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -769,8 +769,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -779,8 +779,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -789,8 +789,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -799,8 +799,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -809,8 +809,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -819,8 +819,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -829,8 +829,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -839,8 +839,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -849,8 +849,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -859,8 +859,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -869,8 +869,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -879,8 +879,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -889,8 +889,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -899,8 +899,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -909,8 +909,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -919,8 +919,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -929,8 +929,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -939,8 +939,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -949,8 +949,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -959,8 +959,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -969,8 +969,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -979,8 +979,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -989,8 +989,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -999,8 +999,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1009,8 +1009,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1019,8 +1019,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1029,8 +1029,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1039,8 +1039,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1049,8 +1049,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1059,8 +1059,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1069,8 +1069,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1079,8 +1079,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1089,8 +1089,8 @@
       "courseType": "Elective",
       "courseHours": "3",
       "labHours": "0",
-      "credit": "5,00",
-      "europeCredit": "5,00"
+      "credit": "5",
+      "europeCredit": "5"
     },
     {
       "semester": "null",
@@ -1099,8 +1099,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1109,8 +1109,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1119,8 +1119,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1129,8 +1129,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1139,8 +1139,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1149,8 +1149,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1159,8 +1159,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1169,8 +1169,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1179,8 +1179,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1189,8 +1189,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1199,8 +1199,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1209,8 +1209,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1219,8 +1219,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1229,8 +1229,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1239,8 +1239,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1249,8 +1249,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1259,8 +1259,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1269,8 +1269,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1279,8 +1279,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1289,8 +1289,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1299,8 +1299,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1309,8 +1309,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1319,8 +1319,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1329,8 +1329,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1339,8 +1339,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1349,8 +1349,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1359,8 +1359,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1369,8 +1369,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1379,8 +1379,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1389,8 +1389,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1399,8 +1399,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1409,8 +1409,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1419,8 +1419,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1429,8 +1429,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1439,8 +1439,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1449,8 +1449,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1459,8 +1459,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1469,8 +1469,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1479,8 +1479,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1489,8 +1489,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1499,8 +1499,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1509,8 +1509,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1519,8 +1519,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1529,8 +1529,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1539,8 +1539,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1549,8 +1549,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1559,8 +1559,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1569,8 +1569,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1579,8 +1579,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1589,8 +1589,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     },
     {
       "semester": "null",
@@ -1599,8 +1599,8 @@
       "courseType": "Elective",
       "courseHours": "2",
       "labHours": "0",
-      "credit": "3,00",
-      "europeCredit": "3,00"
+      "credit": "3",
+      "europeCredit": "3"
     }
   ]
 }
