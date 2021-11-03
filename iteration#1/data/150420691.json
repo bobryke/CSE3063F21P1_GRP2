@@ -1,0 +1,28 @@
+{
+    "firstName":"Bradford",
+    "lastName":"Den",
+    "studentID":150420691,
+    "courses":[
+        {
+        "coursName":"Computer Programming I",
+        "coursID":"CSE1141",
+        "letterGrade":"AA",
+        "credit":6,
+        "retake":false
+    },
+    {
+        "coursName":"Differential Equations",
+        "coursID":"MATH2055",
+        "letterGrade":"FF",
+        "credit":4,
+        "retake":true
+    },
+    {
+        "coursName":"Introduction to Economics",
+        "coursID":"ECON2003",
+        "letterGrade":"BB",
+        "credit":4,
+        "retake":false
+    }
+]
+}

@@ -1,0 +1,28 @@
+{
+    "firstName":"John",
+    "lastName":"Smith",
+    "studentID":150420690,
+    "courses":[
+        {
+        "coursName":"Systems Programming",
+        "coursID":"CSE2138",
+        "letterGrade":"CB",
+        "credit":7,
+        "retake":false
+    },
+    {
+        "coursName":"Differential Equations",
+        "coursID":"MATH2055",
+        "letterGrade":"CB",
+        "credit":4,
+        "retake":false
+    },
+    {
+        "coursName":"Computer Organization",
+        "coursID":"CSE3038",
+        "letterGrade":"DD",
+        "credit":7,
+        "retake":true
+    }
+]
+}
