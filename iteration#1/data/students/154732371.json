@@ -1,0 +1,36 @@
+{
+  "name": "Irvin Clemenson",
+  "username": "irvinclemenson",
+  "password": "vNSsO",
+  "email": "irvinclemenson@marmara.edu.tr",
+  "birthYear": 1999,
+  "id": 154732371,
+  "year": 1,
+  "semester": 2,
+  "faculty": "Faculty of Engineering",
+  "department": "Computer Engineering",
+  "educationLevel": "Bachelor",
+  "courses": [
+    {
+      "coursName": "Computer Programming I",
+      "coursID": "CSE1141",
+      "letterGrade": "AA",
+      "credit": 6,
+      "retake": false
+    },
+    {
+      "coursName": "Differential Equations",
+      "coursID": "MATH2055",
+      "letterGrade": "FF",
+      "credit": 4,
+      "retake": true
+    },
+    {
+      "coursName": "Introduction to Economics",
+      "coursID": "ECON2003",
+      "letterGrade": "BB",
+      "credit": 4,
+      "retake": false
+    }
+  ]
+}
