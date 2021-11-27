@@ -1,9 +1,9 @@
 {
-  "studentName": "Carmine Estepp",
+  "studentName": "Thurman Belscher",
   "studentID": "150119020",
   "studentSemester": 3,
-  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
-  "gpa": 2.5327868852459017,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.5655737704918034,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:AA",
+      "ATA121:CB",
       "MBG1201:BA",
-      "CSE1200:AA",
+      "CSE1200:BB",
       "CSE1241:BB",
-      "MATH1001:CC",
-      "PHYS1101:DC",
-      "PHYS1103:BA",
-      "TRD121:AA",
-      "ATA122:FD",
-      "CSE1242:BA",
-      "MATH1002:DD",
-      "MATH2256:BA",
-      "PHYS1102:FF",
-      "PHYS1104:AA",
-      "TRD122:CC",
-      "INF1001:DC"
+      "MATH1001:CB",
+      "PHYS1101:CB",
+      "PHYS1103:AA",
+      "TRD121:CC",
+      "ATA122:BA",
+      "CSE1242:CB",
+      "MATH1002:FF",
+      "MATH2256:CB",
+      "PHYS1102:BA",
+      "PHYS1104:BB",
+      "TRD122:AA",
+      "LAW2004:DC"
     ]
   }
 }

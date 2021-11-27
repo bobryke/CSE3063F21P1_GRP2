@@ -1,28 +1,28 @@
 {
-  "studentName": "Geoffrey Thoma",
+  "studentName": "Boris Bernos",
   "studentID": "150120059",
   "studentSemester": 1,
-  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
   "gpa": 0.0,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
-    " 10:30 - 11:20 |               |        CSE1241|         TRD121|        CSE1241|               |",
-    " 11:30 - 12:20 |               |        MBG1201|        CSE1241|       PHYS1101|        CSE1241|",
-    " 13:00 - 13:50 |       PHYS1101|               |        CSE1241|               |       PHYS1101|",
-    " 14:00 - 14:50 |               |               |               |               |               |",
-    " 15:00 - 15:50 |               |               |        MBG1201|         ATA121|               |",
-    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
-    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+    " 10:30 - 11:20 |               |               |       MATH1001|       MATH1001|               |",
+    " 11:30 - 12:20 |               |       MATH1001|               |               |               |",
+    " 13:00 - 13:50 |               |               |        CSE1241|               |       MATH1001|",
+    " 14:00 - 14:50 |               |        CSE1241|               |               |               |",
+    " 15:00 - 15:50 |               |        CSE1241|        CSE1200|               |        CSE1200|",
+    " 16:00 - 16:50 |               |       MATH1001|               |               |        CSE1200|",
+    " 17:00 - 17:50 |               |        CSE1241|               |               |               |"
   ],
-  "actions": [],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150120059 to add PHYS1103 because of 2 hours of collision with CSE1200,CSE1241"
+  ],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121: ",
-      "MBG1201: ",
+      "CSE1200: ",
       "CSE1241: ",
-      "PHYS1101: ",
-      "TRD121: "
+      "MATH1001: "
     ]
   }
 }

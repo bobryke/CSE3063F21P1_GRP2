@@ -1,9 +1,9 @@
 {
-  "studentName": "Jeannie Youns",
+  "studentName": "Rosamond Olstad",
   "studentID": "150119047",
   "studentSemester": 3,
   "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
-  "gpa": 2.7459016393442623,
+  "gpa": 2.3114754098360657,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:BA",
-      "MBG1201:BB",
-      "CSE1200:CC",
+      "ATA121:DC",
+      "MBG1201:FF",
+      "CSE1200:FD",
       "CSE1241:AA",
-      "MATH1001:AA",
-      "PHYS1101:DC",
-      "PHYS1103:DC",
-      "TRD121:AA",
+      "MATH1001:FF",
+      "PHYS1101:CB",
+      "PHYS1103:CB",
+      "TRD121:CB",
       "ATA122:CC",
-      "CSE1242:DD",
-      "MATH1002:AA",
-      "MATH2256:BA",
-      "PHYS1102:DC",
-      "PHYS1104:DC",
-      "TRD122:BB",
-      "LAW2004:CC"
+      "CSE1242:DC",
+      "MATH1002:BA",
+      "MATH2256:AA",
+      "PHYS1102:AA",
+      "PHYS1104:DD",
+      "TRD122:AA",
+      "HSS3002:AA"
     ]
   }
 }

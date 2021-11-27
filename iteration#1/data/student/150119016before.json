@@ -1,9 +1,9 @@
 {
-  "studentName": "Matthew Drebes",
+  "studentName": "Colby Hoeschen",
   "studentID": "150119016",
   "studentSemester": 3,
-  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
-  "gpa": 2.2704918032786887,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.5081967213114753,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -19,21 +19,21 @@
   "studentTranscriptDto": {
     "letterGrades": [
       "ATA121:AA",
-      "MBG1201:DC",
-      "CSE1200:CC",
-      "CSE1241:BB",
-      "MATH1001:BA",
-      "PHYS1101:BB",
+      "MBG1201:CB",
+      "CSE1200:FF",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:CC",
       "PHYS1103:AA",
-      "TRD121:DC",
-      "ATA122:CC",
+      "TRD121:CB",
+      "ATA122:CB",
       "CSE1242:DC",
-      "MATH1002:CC",
+      "MATH1002:BB",
       "MATH2256:DC",
-      "PHYS1102:CB",
-      "PHYS1104:CB",
+      "PHYS1102:BB",
+      "PHYS1104:AA",
       "TRD122:CC",
-      "MAN1001:FD"
+      "NTE1006:BB"
     ]
   }
 }

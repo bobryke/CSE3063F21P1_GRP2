@@ -1,9 +1,9 @@
 {
-  "studentName": "Virgilio Gelrud",
+  "studentName": "Deangelo Skowron",
   "studentID": "150119007",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Borahan TUMER",
-  "gpa": 1.959016393442623,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.6885245901639343,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:DD",
-      "MBG1201:CB",
-      "CSE1200:CB",
-      "CSE1241:DD",
-      "MATH1001:DC",
-      "PHYS1101:FF",
-      "PHYS1103:DC",
-      "TRD121:AA",
-      "ATA122:BB",
-      "CSE1242:CB",
+      "ATA121:DC",
+      "MBG1201:CC",
+      "CSE1200:DC",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:CC",
+      "PHYS1103:AA",
+      "TRD121:BB",
+      "ATA122:BA",
+      "CSE1242:BB",
       "MATH1002:CC",
       "MATH2256:CC",
-      "PHYS1102:DC",
-      "PHYS1104:CC",
-      "TRD122:CC",
-      "MAN1001:AA"
+      "PHYS1102:BA",
+      "PHYS1104:AA",
+      "TRD122:DC",
+      "FNCE3003:AA"
     ]
   }
 }

@@ -1,9 +1,9 @@
 {
-  "studentName": "Romona Noto",
+  "studentName": "Kristin Crabbe",
   "studentID": "150119005",
   "studentSemester": 3,
   "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
-  "gpa": 2.622950819672131,
+  "gpa": 2.9344262295081966,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:DD",
-      "MBG1201:FD",
+      "ATA121:CC",
+      "MBG1201:AA",
       "CSE1200:CC",
       "CSE1241:AA",
-      "MATH1001:DD",
-      "PHYS1101:CB",
+      "MATH1001:FD",
+      "PHYS1101:AA",
       "PHYS1103:AA",
-      "TRD121:AA",
-      "ATA122:CB",
+      "TRD121:CC",
+      "ATA122:CC",
       "CSE1242:CC",
       "MATH1002:AA",
-      "MATH2256:DC",
-      "PHYS1102:AA",
-      "PHYS1104:BA",
-      "TRD122:AA",
-      "BUS2005:AA"
+      "MATH2256:AA",
+      "PHYS1102:CC",
+      "PHYS1104:CB",
+      "TRD122:BA",
+      "CAS3044:AA"
     ]
   }
 }

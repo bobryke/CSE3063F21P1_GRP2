@@ -1,28 +1,25 @@
 {
-  "studentName": "Leland Strobeck",
+  "studentName": "Andre San",
   "studentID": "150120034",
   "studentSemester": 1,
-  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
   "gpa": 0.0,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
-    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
-    " 10:30 - 11:20 |               |        CSE1241|               |        CSE1241|               |",
-    " 11:30 - 12:20 |               |        MBG1201|        CSE1241|               |        CSE1241|",
-    " 13:00 - 13:50 |       MATH1001|               |        CSE1241|               |               |",
-    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
-    " 15:00 - 15:50 |               |               |        MBG1201|         ATA121|               |",
-    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
-    " 17:00 - 17:50 |               |               |               |               |               |"
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |       MATH1001|       MATH1001|               |",
+    " 11:30 - 12:20 |               |       MATH1001|               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |       MATH1001|",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE1200|               |        CSE1200|",
+    " 16:00 - 16:50 |               |       MATH1001|               |               |        CSE1200|",
+    " 17:00 - 17:50 |               |               |               |         ATA121|               |"
   ],
-  "actions": [
-    "[O][VERIFICATION-FAILED]:The system didnt allow 150120034 to add PHYS1103 because of 2 hours of collision with CSE1241,MATH1001"
-  ],
+  "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
       "ATA121: ",
-      "MBG1201: ",
-      "CSE1241: ",
+      "CSE1200: ",
       "MATH1001: "
     ]
   }

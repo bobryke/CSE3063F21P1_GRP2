@@ -1,9 +1,9 @@
 {
-  "studentName": "Amos Osmundson",
+  "studentName": "Jeannie Youns",
   "studentID": "150119049",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
-  "gpa": 2.4262295081967213,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.2295081967213113,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:BB",
-      "MBG1201:AA",
-      "CSE1200:DC",
-      "CSE1241:CC",
+      "ATA121:FF",
+      "MBG1201:DD",
+      "CSE1200:FF",
+      "CSE1241:AA",
       "MATH1001:CC",
-      "PHYS1101:BB",
+      "PHYS1101:DD",
       "PHYS1103:CB",
-      "TRD121:DC",
-      "ATA122:AA",
-      "CSE1242:DC",
-      "MATH1002:CC",
-      "MATH2256:CC",
+      "TRD121:CC",
+      "ATA122:CC",
+      "CSE1242:BB",
+      "MATH1002:AA",
+      "MATH2256:DC",
       "PHYS1102:AA",
-      "PHYS1104:CB",
-      "TRD122:BB",
-      "CAS2003:CC"
+      "PHYS1104:FF",
+      "TRD122:CB",
+      "YDA1003:CB"
     ]
   }
 }

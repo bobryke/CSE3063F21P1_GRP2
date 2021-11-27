@@ -1,9 +1,9 @@
 {
-  "studentName": "Karisa Keilen",
+  "studentName": "Ellis Daill",
   "studentID": "150119034",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
-  "gpa": 2.5245901639344264,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 2.5163934426229506,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -21,19 +21,19 @@
       "ATA121:CB",
       "MBG1201:CC",
       "CSE1200:CC",
-      "CSE1241:DC",
-      "MATH1001:DC",
-      "PHYS1101:FF",
-      "PHYS1103:AA",
-      "TRD121:BA",
-      "ATA122:AA",
-      "CSE1242:CB",
-      "MATH1002:AA",
-      "MATH2256:AA",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:DD",
+      "PHYS1103:CB",
+      "TRD121:CB",
+      "ATA122:BA",
+      "CSE1242:AA",
+      "MATH1002:CC",
+      "MATH2256:DC",
       "PHYS1102:DC",
       "PHYS1104:AA",
-      "TRD122:AA",
-      "YDF1001:BB"
+      "TRD122:FD",
+      "YDF1002:AA"
     ]
   }
 }

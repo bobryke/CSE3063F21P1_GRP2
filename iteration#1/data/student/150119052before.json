@@ -1,9 +1,9 @@
 {
-  "studentName": "Yoko Glebocki",
+  "studentName": "Quinton Zombro",
   "studentID": "150119052",
   "studentSemester": 3,
-  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
-  "gpa": 2.4508196721311477,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 3.0737704918032787,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -20,20 +20,20 @@
     "letterGrades": [
       "ATA121:CC",
       "MBG1201:DC",
-      "CSE1200:DC",
-      "CSE1241:BB",
-      "MATH1001:DC",
-      "PHYS1101:BA",
-      "PHYS1103:DC",
-      "TRD121:BB",
-      "ATA122:AA",
-      "CSE1242:CC",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:CC",
+      "PHYS1101:CB",
+      "PHYS1103:CB",
+      "TRD121:AA",
+      "ATA122:BB",
+      "CSE1242:AA",
       "MATH1002:AA",
-      "MATH2256:CC",
+      "MATH2256:BB",
       "PHYS1102:CB",
-      "PHYS1104:AA",
+      "PHYS1104:BB",
       "TRD122:CC",
-      "NTE1008:CC"
+      "CAS1001:AA"
     ]
   }
 }

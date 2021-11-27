@@ -1,9 +1,9 @@
 {
-  "studentName": "Carlton Serven",
+  "studentName": "Delmar Demallie",
   "studentID": "150119037",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
-  "gpa": 2.639344262295082,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 2.2950819672131146,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:CC",
-      "MBG1201:AA",
-      "CSE1200:FF",
-      "CSE1241:BA",
+      "ATA121:CB",
+      "MBG1201:CC",
+      "CSE1200:DD",
+      "CSE1241:CC",
       "MATH1001:AA",
-      "PHYS1101:DC",
-      "PHYS1103:BA",
-      "TRD121:DC",
-      "ATA122:BB",
-      "CSE1242:FD",
-      "MATH1002:BA",
-      "MATH2256:AA",
-      "PHYS1102:CC",
-      "PHYS1104:CC",
-      "TRD122:AA",
-      "COMM2060:CC"
+      "PHYS1101:BB",
+      "PHYS1103:DD",
+      "TRD121:FF",
+      "ATA122:CC",
+      "CSE1242:BA",
+      "MATH1002:CC",
+      "MATH2256:DD",
+      "PHYS1102:CB",
+      "PHYS1104:DC",
+      "TRD122:CC",
+      "YDA1001:AA"
     ]
   }
 }

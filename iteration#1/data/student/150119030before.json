@@ -1,9 +1,9 @@
 {
-  "studentName": "Bobbie Estel",
+  "studentName": "Rose Obeirne",
   "studentID": "150119030",
   "studentSemester": 3,
-  "studentAdvisor": "Dr. Ogr. Uyesi Fatma Corut ERGIN",
-  "gpa": 1.8032786885245902,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.6636363636363636,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,21 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:FF",
-      "MBG1201:FD",
+      "ATA121:AA",
+      "MBG1201:CB",
       "CSE1200:AA",
-      "CSE1241:DD",
-      "MATH1001:CC",
-      "PHYS1101:AA",
-      "PHYS1103:CC",
-      "TRD121:CC",
-      "ATA122:BA",
-      "CSE1242:DD",
-      "MATH1002:CC",
-      "MATH2256:DC",
-      "PHYS1102:CB",
-      "PHYS1104:FF",
-      "TRD122:CC",
-      "YDA1002:DD"
+      "CSE1241:FF",
+      "MATH1001:BA",
+      "PHYS1101:BA",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:DC",
+      "MATH1002:DC",
+      "MATH2256:DD",
+      "PHYS1102:BA",
+      "PHYS1104:AA",
+      "TRD122:AA",
+      "OB2040:AA"
     ]
   }
 }

@@ -1,9 +1,9 @@
 {
-  "studentName": "Jarod Saldivar",
+  "studentName": "Kristin Crabbe",
   "studentID": "150119033",
   "studentSemester": 3,
-  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
-  "gpa": 2.5491803278688523,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 2.1475409836065573,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:BB",
-      "MBG1201:DD",
-      "CSE1200:BB",
-      "CSE1241:CC",
-      "MATH1001:AA",
-      "PHYS1101:DC",
-      "PHYS1103:AA",
-      "TRD121:CC",
-      "ATA122:BB",
-      "CSE1242:CC",
-      "MATH1002:AA",
-      "MATH2256:AA",
-      "PHYS1102:FF",
-      "PHYS1104:CC",
-      "TRD122:AA",
-      "CAS3001:DC"
+      "ATA121:AA",
+      "MBG1201:CC",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:FD",
+      "PHYS1101:CB",
+      "PHYS1103:FF",
+      "TRD121:BB",
+      "ATA122:AA",
+      "CSE1242:BB",
+      "MATH1002:FD",
+      "MATH2256:DC",
+      "PHYS1102:DC",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "NTE1008:DC"
     ]
   }
 }

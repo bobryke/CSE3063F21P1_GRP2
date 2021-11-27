@@ -1,9 +1,9 @@
 {
-  "studentName": "Milagro Dobric",
+  "studentName": "Kacie Heeralall",
   "studentID": "150119055",
   "studentSemester": 3,
-  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
-  "gpa": 2.4508196721311477,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.3688524590163933,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:FF",
-      "MBG1201:AA",
-      "CSE1200:DC",
+      "ATA121:AA",
+      "MBG1201:FD",
+      "CSE1200:AA",
       "CSE1241:CC",
-      "MATH1001:BA",
-      "PHYS1101:CC",
+      "MATH1001:DD",
+      "PHYS1101:BB",
       "PHYS1103:AA",
-      "TRD121:DC",
-      "ATA122:CB",
-      "CSE1242:BA",
-      "MATH1002:FF",
-      "MATH2256:CB",
-      "PHYS1102:AA",
-      "PHYS1104:CC",
-      "TRD122:CC",
-      "HSS3002:BB"
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:DC",
+      "MATH1002:AA",
+      "MATH2256:BB",
+      "PHYS1102:DD",
+      "PHYS1104:AA",
+      "TRD122:DD",
+      "INF1001:CC"
     ]
   }
 }

@@ -1,28 +1,29 @@
 {
-  "studentName": "Louis Berdy",
+  "studentName": "Hisako Jarrett",
   "studentID": "150120056",
   "studentSemester": 1,
-  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
   "gpa": 0.0,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
-    " 09:30 - 10:20 |               |               |               |               |               |",
-    " 10:30 - 11:20 |               |        CSE1200|               |               |               |",
-    " 11:30 - 12:20 |               |        MBG1201|               |       PHYS1101|               |",
-    " 13:00 - 13:50 |       PHYS1103|               |       PHYS1103|               |       PHYS1101|",
-    " 14:00 - 14:50 |               |               |               |               |        CSE1200|",
-    " 15:00 - 15:50 |               |        CSE1200|        MBG1201|         ATA121|               |",
-    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
-    " 17:00 - 17:50 |               |               |               |               |               |"
+    " 09:30 - 10:20 |               |        MBG1201|               |               |       PHYS1101|",
+    " 10:30 - 11:20 |               |               |       MATH1001|       MATH1001|               |",
+    " 11:30 - 12:20 |               |       MATH1001|        MBG1201|               |               |",
+    " 13:00 - 13:50 |               |       PHYS1101|        CSE1241|               |       MATH1001|",
+    " 14:00 - 14:50 |       PHYS1101|       PHYS1103|               |               |               |",
+    " 15:00 - 15:50 |               |         TRD121|               |               |       PHYS1103|",
+    " 16:00 - 16:50 |        MBG1201|       MATH1001|               |               |               |",
+    " 17:00 - 17:50 |               |        CSE1241|               |         TRD121|               |"
   ],
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121: ",
       "MBG1201: ",
-      "CSE1200: ",
+      "CSE1241: ",
+      "MATH1001: ",
       "PHYS1101: ",
-      "PHYS1103: "
+      "PHYS1103: ",
+      "TRD121: "
     ]
   }
 }

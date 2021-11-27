@@ -1,43 +1,46 @@
 {
-  "studentName": "Shawn Cleghorn",
+  "studentName": "Romona Noto",
   "studentID": "150119040",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Omer KORCAK",
-  "gpa": 2.557377049180328,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 3.30327868852459,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
-    " 09:30 - 10:20 |       ECON2004|               |        CSE2225|               |        CSE2023|",
-    " 10:30 - 11:20 |       ECON2004|        CSE2225|               |               |               |",
-    " 11:30 - 12:20 |               |               |       MATH2059|        CSE2023|       MATH2059|",
-    " 13:00 - 13:50 |               |       ECON2004|               |               |        CSE2225|",
-    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
-    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |       MATH2059|",
-    " 16:00 - 16:50 |               |               |               |               |               |",
-    " 17:00 - 17:50 |               |               |               |               |               |"
+    " 09:30 - 10:20 |               |        CSE3000|        CSE3000|               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |        CSE3063|         ISG121|        CSE3063|               |",
+    " 13:00 - 13:50 |        CSE3063|               |        CSE3033|        CSE2023|               |",
+    " 14:00 - 14:50 |               |        CSE2023|         ISG121|        CSE3000|        CSE2023|",
+    " 15:00 - 15:50 |        CSE3033|               |               |        CSE3033|               |",
+    " 16:00 - 16:50 |               |               |        CSE3000|               |               |",
+    " 17:00 - 17:50 |               |               |               |        CSE3033|               |"
   ],
-  "actions": [],
+  "actions": [
+    "[VERIFICATION-FAILED]:The advisor Prof. Dr. Haluk Rahmi TOCUOGLU didnt approve the registration of the student 150119040. A student cannot take more than three classes from higher semesters."
+  ],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:DD",
-      "MBG1201:CC",
-      "CSE1200:FD",
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:BB",
       "CSE1241:AA",
       "MATH1001:AA",
-      "PHYS1101:CC",
+      "PHYS1101:FF",
       "PHYS1103:AA",
-      "TRD121:FD",
+      "TRD121:AA",
       "ATA122:DC",
-      "CSE1242:BB",
-      "MATH1002:BB",
-      "MATH2256:CB",
-      "PHYS1102:DC",
-      "PHYS1104:AA",
+      "CSE1242:BA",
+      "MATH1002:AA",
+      "MATH2256:DC",
+      "PHYS1102:AA",
+      "PHYS1104:BA",
       "TRD122:BA",
-      "NTE1016:DC",
+      "YDA1002:AA",
       "CSE2023: ",
-      "CSE2225: ",
-      "ECON2004: ",
-      "MATH2059: "
+      "CSE3000: ",
+      "CSE3033: ",
+      "CSE3063: ",
+      "ISG121: "
     ]
   }
 }

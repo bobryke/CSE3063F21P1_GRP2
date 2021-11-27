@@ -1,9 +1,9 @@
 {
-  "studentName": "Vergie Rymut",
+  "studentName": "Giuseppe Beyerl",
   "studentID": "150119054",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
-  "gpa": 2.7704918032786887,
+  "studentAdvisor": "Dr. Ogr. Uyesi Fatma Corut ERGIN",
+  "gpa": 2.6557377049180326,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -19,21 +19,21 @@
   "studentTranscriptDto": {
     "letterGrades": [
       "ATA121:CB",
-      "MBG1201:BA",
+      "MBG1201:CC",
       "CSE1200:CB",
       "CSE1241:AA",
-      "MATH1001:CC",
-      "PHYS1101:CC",
-      "PHYS1103:BA",
-      "TRD121:CB",
-      "ATA122:BA",
-      "CSE1242:BB",
-      "MATH1002:CC",
-      "MATH2256:DC",
-      "PHYS1102:CB",
-      "PHYS1104:AA",
-      "TRD122:BB",
-      "NTE1011:AA"
+      "MATH1001:DD",
+      "PHYS1101:DC",
+      "PHYS1103:DC",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:AA",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:DC",
+      "PHYS1104:BB",
+      "TRD122:DC",
+      "MRK3082:DD"
     ]
   }
 }

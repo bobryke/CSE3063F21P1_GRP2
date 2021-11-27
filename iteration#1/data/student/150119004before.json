@@ -1,9 +1,9 @@
 {
-  "studentName": "Willy Struzzi",
+  "studentName": "Estella Cruell",
   "studentID": "150119004",
   "studentSemester": 3,
   "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
-  "gpa": 2.5081967213114753,
+  "gpa": 2.30327868852459,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:AA",
+      "ATA121:CC",
       "MBG1201:CC",
-      "CSE1200:AA",
-      "CSE1241:AA",
-      "MATH1001:BB",
-      "PHYS1101:FF",
-      "PHYS1103:CB",
-      "TRD121:CB",
-      "ATA122:DC",
-      "CSE1242:FD",
+      "CSE1200:DD",
+      "CSE1241:DC",
+      "MATH1001:AA",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:AA",
+      "CSE1242:FF",
       "MATH1002:CB",
-      "MATH2256:AA",
-      "PHYS1102:DC",
-      "PHYS1104:CC",
+      "MATH2256:DC",
+      "PHYS1102:CC",
+      "PHYS1104:DC",
       "TRD122:CC",
-      "NTE1013:AA"
+      "FNCE3003:AA"
     ]
   }
 }

@@ -1,25 +1,26 @@
 {
-  "studentName": "Louis Berdy",
+  "studentName": "Elwood Pietschman",
   "studentID": "150120050",
   "studentSemester": 1,
-  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
   "gpa": 0.0,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
-    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
-    " 10:30 - 11:20 |               |               |               |               |               |",
-    " 11:30 - 12:20 |               |               |               |               |               |",
-    " 13:00 - 13:50 |       PHYS1103|               |       PHYS1103|               |               |",
-    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
-    " 15:00 - 15:50 |               |               |               |         ATA121|               |",
-    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
-    " 17:00 - 17:50 |               |               |               |               |               |"
+    " 09:30 - 10:20 |               |               |               |               |       PHYS1101|",
+    " 10:30 - 11:20 |               |               |       MATH1001|       MATH1001|               |",
+    " 11:30 - 12:20 |               |       MATH1001|               |               |               |",
+    " 13:00 - 13:50 |               |       PHYS1101|        CSE1241|               |       MATH1001|",
+    " 14:00 - 14:50 |       PHYS1101|       PHYS1103|               |               |               |",
+    " 15:00 - 15:50 |               |        CSE1241|               |               |       PHYS1103|",
+    " 16:00 - 16:50 |               |       MATH1001|               |               |               |",
+    " 17:00 - 17:50 |               |        CSE1241|               |               |               |"
   ],
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121: ",
+      "CSE1241: ",
       "MATH1001: ",
+      "PHYS1101: ",
       "PHYS1103: "
     ]
   }

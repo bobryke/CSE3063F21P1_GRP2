@@ -1,9 +1,9 @@
 {
-  "studentName": "Shawn Cleghorn",
+  "studentName": "Romona Noto",
   "studentID": "150119040",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Omer KORCAK",
-  "gpa": 2.557377049180328,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 3.30327868852459,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:DD",
-      "MBG1201:CC",
-      "CSE1200:FD",
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:BB",
       "CSE1241:AA",
       "MATH1001:AA",
-      "PHYS1101:CC",
+      "PHYS1101:FF",
       "PHYS1103:AA",
-      "TRD121:FD",
+      "TRD121:AA",
       "ATA122:DC",
-      "CSE1242:BB",
-      "MATH1002:BB",
-      "MATH2256:CB",
-      "PHYS1102:DC",
-      "PHYS1104:AA",
+      "CSE1242:BA",
+      "MATH1002:AA",
+      "MATH2256:DC",
+      "PHYS1102:AA",
+      "PHYS1104:BA",
       "TRD122:BA",
-      "NTE1016:DC"
+      "YDA1002:AA"
     ]
   }
 }

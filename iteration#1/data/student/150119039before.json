@@ -1,9 +1,9 @@
 {
-  "studentName": "Lonny Hovnanian",
+  "studentName": "Kristin Crabbe",
   "studentID": "150119039",
   "studentSemester": 3,
-  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
-  "gpa": 2.942622950819672,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 3.262295081967213,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:CB",
+      "ATA121:CC",
       "MBG1201:AA",
-      "CSE1200:CB",
-      "CSE1241:DC",
-      "MATH1001:BA",
-      "PHYS1101:AA",
-      "PHYS1103:CC",
-      "TRD121:BB",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:DC",
+      "PHYS1103:BB",
+      "TRD121:AA",
       "ATA122:AA",
       "CSE1242:AA",
-      "MATH1002:CC",
-      "MATH2256:DC",
-      "PHYS1102:AA",
-      "PHYS1104:CB",
-      "TRD122:CC",
-      "NTE1006:AA"
+      "MATH1002:DC",
+      "MATH2256:BB",
+      "PHYS1102:BA",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "NTE1015:CC"
     ]
   }
 }

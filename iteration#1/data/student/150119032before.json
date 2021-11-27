@@ -1,9 +1,9 @@
 {
-  "studentName": "Loni Dipaolo",
+  "studentName": "Bev Abe",
   "studentID": "150119032",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
-  "gpa": 2.3278688524590163,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.7540983606557377,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:BB",
-      "MBG1201:DC",
-      "CSE1200:CC",
+      "ATA121:CC",
+      "MBG1201:BA",
+      "CSE1200:FF",
       "CSE1241:AA",
-      "MATH1001:DD",
+      "MATH1001:BA",
       "PHYS1101:CC",
-      "PHYS1103:DC",
-      "TRD121:CC",
-      "ATA122:BB",
-      "CSE1242:AA",
-      "MATH1002:FF",
-      "MATH2256:DC",
-      "PHYS1102:BA",
-      "PHYS1104:CC",
+      "PHYS1103:AA",
+      "TRD121:DC",
+      "ATA122:DD",
+      "CSE1242:FF",
+      "MATH1002:AA",
+      "MATH2256:BA",
+      "PHYS1102:AA",
+      "PHYS1104:DC",
       "TRD122:AA",
-      "YDA2001:AA"
+      "NTE1011:AA"
     ]
   }
 }

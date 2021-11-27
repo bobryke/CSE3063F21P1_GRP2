@@ -1,41 +1,47 @@
 {
-  "studentName": "Erasmo Balderree",
+  "studentName": "Carmine Estepp",
   "studentID": "150119046",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Omer KORCAK",
-  "gpa": 2.8278688524590163,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.721311475409836,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
-    " 09:30 - 10:20 |       ECON2004|               |               |               |        CSE2023|",
-    " 10:30 - 11:20 |       ECON2004|               |               |               |               |",
-    " 11:30 - 12:20 |               |               |               |        CSE2023|               |",
-    " 13:00 - 13:50 |               |       ECON2004|               |               |               |",
-    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
-    " 15:00 - 15:50 |               |               |        CSE2023|               |               |",
-    " 16:00 - 16:50 |               |               |               |               |               |",
-    " 17:00 - 17:50 |               |               |               |               |               |"
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |        CSE2225|       ECON2004|               |",
+    " 11:30 - 12:20 |               |               |               |        CSE2225|               |",
+    " 13:00 - 13:50 |               |               |       MATH2055|        CSE2023|        CSE2225|",
+    " 14:00 - 14:50 |       MATH2055|        CSE2023|               |       MATH2055|        CSE2023|",
+    " 15:00 - 15:50 |               |        CSE2225|               |               |               |",
+    " 16:00 - 16:50 |               |        CSE2225|        CSE2023|               |         ATA121|",
+    " 17:00 - 17:50 |       ECON2004|               |               |       ECON2004|               |"
   ],
-  "actions": [],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119046 to add EE2031 because of 2 hours of collision with ATA121,CSE2225",
+    "[VERIFICATION-FAILED]:The advisor Prof. Dr. Haluk Rahmi TOCUOGLU didnt approve the registration of the student150119046. Advisor didnt allow student to re-take DD or DC classes."
+  ],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:CC",
+      "ATA121:DC",
       "MBG1201:CC",
       "CSE1200:BB",
-      "CSE1241:AA",
-      "MATH1001:AA",
-      "PHYS1101:CC",
-      "PHYS1103:BA",
+      "CSE1241:BA",
+      "MATH1001:CC",
+      "PHYS1101:BA",
+      "PHYS1103:DD",
       "TRD121:BB",
-      "ATA122:DC",
-      "CSE1242:DC",
+      "ATA122:AA",
+      "CSE1242:CC",
       "MATH1002:AA",
-      "MATH2256:DC",
-      "PHYS1102:AA",
-      "PHYS1104:CC",
-      "TRD122:AA",
-      "HR1013:CC",
+      "MATH2256:BB",
+      "PHYS1102:CC",
+      "PHYS1104:DC",
+      "TRD122:CC",
+      "NTE1016:AA",
+      "ATA121: ",
       "CSE2023: ",
-      "ECON2004: "
+      "CSE2225: ",
+      "ECON2004: ",
+      "MATH2055: "
     ]
   }
 }

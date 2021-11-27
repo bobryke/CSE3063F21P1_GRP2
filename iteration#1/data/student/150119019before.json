@@ -1,9 +1,9 @@
 {
-  "studentName": "Treena Badagliacca",
+  "studentName": "Clarinda Laning",
   "studentID": "150119019",
   "studentSemester": 3,
-  "studentAdvisor": "Doc. Dr. Borahan TUMER",
-  "gpa": 2.737704918032787,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.2131147540983607,
   "dtoSchedule": [
     "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
     " 09:30 - 10:20 |               |               |               |               |               |",
@@ -18,22 +18,22 @@
   "actions": [],
   "studentTranscriptDto": {
     "letterGrades": [
-      "ATA121:CC",
-      "MBG1201:AA",
-      "CSE1200:AA",
-      "CSE1241:CC",
-      "MATH1001:CC",
-      "PHYS1101:DC",
-      "PHYS1103:AA",
-      "TRD121:AA",
-      "ATA122:AA",
-      "CSE1242:BA",
-      "MATH1002:BB",
-      "MATH2256:DD",
-      "PHYS1102:CC",
-      "PHYS1104:CC",
-      "TRD122:CB",
-      "OB2041:AA"
+      "ATA121:CB",
+      "MBG1201:CC",
+      "CSE1200:DC",
+      "CSE1241:BA",
+      "MATH1001:FF",
+      "PHYS1101:FF",
+      "PHYS1103:CC",
+      "TRD121:BB",
+      "ATA122:BB",
+      "CSE1242:AA",
+      "MATH1002:CB",
+      "MATH2256:BB",
+      "PHYS1102:BA",
+      "PHYS1104:FD",
+      "TRD122:DD",
+      "NTE1015:CC"
     ]
   }
 }
