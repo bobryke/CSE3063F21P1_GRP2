@@ -1,21 +1,11 @@
-<div align="center" >
+# CSE3063F21P1_GRP2
 
-# **CSE3063 OOSD Java Project Fall 2021** 
+CSE3063 OOSD Java Project Fall 2021
 
-<img src="logo.png" width="650">
-
-<br>
-
-### **Group Members**:
-<br>
-
-|ID   |Name   |Github username   |
-|---|---|---|
-|150119633   |***Murat Tüzün***   |Murattuzun   |
-|150119812   |***Sinan Dumansız***   |snndmnsz   |
-|150119909   |***Kerem Kosif***   |MrKosif   |
-|150119934   |***Berkay Mengünoğul***   |berkaymengunogul   |
-|150120825   |***Onurcan İşler***   |n3r0nur12   |
-|150120827   |***Merve Hazal Özalp***   |mhozalp  |
-
-</div>
+## Group Members:
+1- 150119633, Murat Tüzün (Murattuzun) \
+2- 150119812, Sinan Dumansız (snndmnsz) \
+3- 150119909, Kerem Kosif (MrKosif) \
+4- 150119934, Berkay Mengünoğul (berkaymengunogul) \
+5- 150120825, Onurcan İşler (n3r0nur12) \
+6- 150120827, Merve Hazal Özalp (mhozalp)
