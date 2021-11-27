@@ -1,0 +1,48 @@
+{
+  "studentName": "Terrence Gouker",
+  "studentID": "150118010",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.3878504672897196,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:DD",
+      "CSE1241:FF",
+      "MATH1001:AA",
+      "PHYS1101:BB",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CB",
+      "MATH1002:CC",
+      "MATH2256:FD",
+      "PHYS1102:FF",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "YDI1004:BB",
+      "CSE2023:CC",
+      "CSE2225:AA",
+      "ECON2004:FF",
+      "MATH2055:AA",
+      "MATH2059:BA",
+      "CSE2246:DC",
+      "CSE2138:DC",
+      "CSE2260:AA",
+      "EE2032:CC",
+      "STAT2253:CB"
+    ]
+  }
+}

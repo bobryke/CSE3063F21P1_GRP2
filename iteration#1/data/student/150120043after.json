@@ -1,0 +1,28 @@
+{
+  "studentName": "Carson Cutburth",
+  "studentID": "150120043",
+  "studentSemester": 1,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 0.0,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |               |         TRD121|               |               |",
+    " 11:30 - 12:20 |               |        MBG1201|               |       PHYS1101|               |",
+    " 13:00 - 13:50 |       PHYS1101|               |               |               |       PHYS1101|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |               |        MBG1201|         ATA121|               |",
+    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121: ",
+      "MBG1201: ",
+      "MATH1001: ",
+      "PHYS1101: ",
+      "TRD121: "
+    ]
+  }
+}

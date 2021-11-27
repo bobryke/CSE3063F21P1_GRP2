@@ -1,0 +1,48 @@
+{
+  "studentName": "Delmar Demallie",
+  "studentID": "150118070",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.6121495327102804,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:BB",
+      "CSE1200:CB",
+      "CSE1241:AA",
+      "MATH1001:BA",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:BA",
+      "ATA122:BB",
+      "CSE1242:FF",
+      "MATH1002:BB",
+      "MATH2256:CB",
+      "PHYS1102:CC",
+      "PHYS1104:BB",
+      "TRD122:DC",
+      "MAN1001:AA",
+      "CSE2023:CB",
+      "ECON2004:AA",
+      "EE2031:CB",
+      "MATH2055:AA",
+      "MATH2059:AA",
+      "CSE2246:CC",
+      "CSE2138:AA",
+      "EE2032:FD",
+      "STAT2253:FF"
+    ]
+  }
+}

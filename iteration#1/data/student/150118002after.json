@@ -1,0 +1,51 @@
+{
+  "studentName": "Marco Glosson",
+  "studentID": "150118002",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.0679611650485437,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |        CSE3055|               |       PHYS1101|               |",
+    " 13:00 - 13:50 |       PHYS1103|               |       PHYS1103|        CSE3215|        CSE3055|",
+    " 14:00 - 14:50 |               |        CSE3055|               |        CSE3215|        CSE3055|",
+    " 15:00 - 15:50 |               |        CSE3215|               |               |        CSE3215|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |        CSE3215|               |        CSE3055|               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BA",
+      "MBG1201:BA",
+      "CSE1200:CB",
+      "CSE1241:FF",
+      "MATH1001:FF",
+      "PHYS1101:DC",
+      "PHYS1103:DC",
+      "TRD121:AA",
+      "ATA122:DC",
+      "MATH1002:DD",
+      "MATH2256:BB",
+      "PHYS1102:AA",
+      "PHYS1104:DC",
+      "TRD122:CB",
+      "NTE1003:BA",
+      "CSE2023:BA",
+      "CSE2225:DC",
+      "ECON2004:AA",
+      "EE2031:FD",
+      "MATH2055:CB",
+      "CSE2246:AA",
+      "CSE2138:DD",
+      "CSE2260:BB",
+      "STAT2253:FF",
+      "PHYS1101: ",
+      "PHYS1103: ",
+      "CSE3215: ",
+      "CSE3055: "
+    ]
+  }
+}

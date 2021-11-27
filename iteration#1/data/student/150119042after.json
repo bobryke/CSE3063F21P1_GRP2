@@ -1,0 +1,43 @@
+{
+  "studentName": "Mickey Pretzer",
+  "studentID": "150119042",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.2868852459016393,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |               |               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|        CSE2023|       MATH2059|",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |         EE2031|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE2023|               |       MATH2059|",
+    " 16:00 - 16:50 |               |               |               |         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:BA",
+      "CSE1200:AA",
+      "CSE1241:BA",
+      "MATH1001:BB",
+      "PHYS1101:BA",
+      "PHYS1103:CC",
+      "TRD121:CB",
+      "ATA122:AA",
+      "CSE1242:DC",
+      "MATH1002:FF",
+      "MATH2256:FF",
+      "PHYS1102:BB",
+      "PHYS1104:FF",
+      "TRD122:AA",
+      "NTE1004:DD",
+      "CSE2023: ",
+      "ECON2004: ",
+      "EE2031: ",
+      "MATH2059: "
+    ]
+  }
+}

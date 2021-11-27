@@ -1,0 +1,58 @@
+{
+  "studentName": "Tia Soptick",
+  "studentID": "150118047",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.6610169491525424,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |        CSE3000|               |",
+    " 10:30 - 11:20 |               |         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |        CSE3000|               |               |         IE3081|         EE2031|",
+    " 14:00 - 14:50 |               |               |         IE3081|               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|               |               |        CSE3000|",
+    " 16:00 - 16:50 |               |               |               |         EE2031|               |",
+    " 17:00 - 17:50 |        CSE3000|               |               |               |         IE3081|"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118047 to add CSE3215 because of 2 hours of collision with CSE1200,CSE3000",
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118047 to add CSE3055 because of 2 hours of collision with CSE1200,EE2031",
+    "[VERIFICATION-FAILED]:The advisor Doc. Dr. Mustafa AGAOGLU didnt approve the registration of the student150118047. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:CC",
+      "MATH1001:CB",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:BB",
+      "CSE1242:AA",
+      "MATH1002:CB",
+      "MATH2256:CC",
+      "PHYS1102:CC",
+      "PHYS1104:AA",
+      "TRD122:AA",
+      "YDA2001:CB",
+      "CSE2023:BB",
+      "CSE2225:AA",
+      "ECON2004:BA",
+      "EE2031:DD",
+      "MATH2055:CC",
+      "MATH2059:DC",
+      "CSE2246:CC",
+      "CSE2138:FF",
+      "CSE2260:AA",
+      "EE2032:AA",
+      "STAT2253:DC",
+      "CSE1200: ",
+      "EE2031: ",
+      "CSE3000: ",
+      "IE3081: "
+    ]
+  }
+}

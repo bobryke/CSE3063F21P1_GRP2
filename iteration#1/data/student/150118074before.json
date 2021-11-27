@@ -1,0 +1,49 @@
+{
+  "studentName": "Isaiah Arnstein",
+  "studentID": "150118074",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 1.9035087719298245,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:CC",
+      "CSE1200:CC",
+      "CSE1241:BA",
+      "MATH1001:FF",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:CC",
+      "ATA122:BA",
+      "CSE1242:DC",
+      "MATH1002:FD",
+      "MATH2256:CC",
+      "PHYS1102:DC",
+      "PHYS1104:AA",
+      "TRD122:FF",
+      "MGT3082:CC",
+      "CSE2023:DD",
+      "CSE2225:DC",
+      "ECON2004:CC",
+      "EE2031:DC",
+      "MATH2055:AA",
+      "CSE2246:CC",
+      "CSE2138:AA",
+      "CSE2260:FF",
+      "EE2032:AA",
+      "STAT2253:FF"
+    ]
+  }
+}

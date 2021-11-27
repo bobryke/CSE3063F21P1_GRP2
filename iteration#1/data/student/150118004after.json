@@ -1,0 +1,50 @@
+{
+  "studentName": "Thurman Belscher",
+  "studentID": "150118004",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 1.7475728155339805,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |       MATH1001|               |               |         IE3081|               |",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|         IE3081|        CSE3215|               |",
+    " 15:00 - 15:50 |               |        CSE3215|               |               |        CSE3215|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |        CSE3215|               |               |               |         IE3081|"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:DC",
+      "CSE1200:DD",
+      "CSE1241:CC",
+      "MATH1001:FD",
+      "PHYS1101:CC",
+      "PHYS1103:AA",
+      "TRD121:DD",
+      "ATA122:AA",
+      "CSE1242:FF",
+      "MATH1002:AA",
+      "MATH2256:FF",
+      "PHYS1102:DC",
+      "PHYS1104:BA",
+      "TRD122:CC",
+      "NTE1006:FF",
+      "CSE2023:BA",
+      "ECON2004:DD",
+      "EE2031:DD",
+      "MATH2055:DD",
+      "CSE2246:FF",
+      "CSE2138:DD",
+      "EE2032:BA",
+      "STAT2253:AA",
+      "MATH1001: ",
+      "CSE3215: ",
+      "IE3081: "
+    ]
+  }
+}

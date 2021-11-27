@@ -1,0 +1,55 @@
+{
+  "studentName": "Lamont Elbaz",
+  "studentID": "150118030",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 2.5486725663716814,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |        CSE2023|",
+    " 10:30 - 11:20 |               |               |         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |               |        CSE3033|               |",
+    " 13:00 - 13:50 |               |        CSE3033|               |               |        CSE3033|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |        CSE3033|        CSE2023|               |               |",
+    " 16:00 - 16:50 |               |               |        CSE3033|               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118030 to add CSE3055 because of 2 hours of collision with TRD121,CSE3033",
+    "[VERIFICATION-FAILED]:The advisor Prof.Dr. Cigdem Eroglu ERDEM didnt approve the registration of the student150118030. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:CC",
+      "CSE1200:BA",
+      "CSE1241:DC",
+      "MATH1001:CC",
+      "PHYS1101:CC",
+      "PHYS1103:CC",
+      "TRD121:FF",
+      "ATA122:CC",
+      "CSE1242:CB",
+      "MATH1002:AA",
+      "MATH2256:CB",
+      "PHYS1102:FF",
+      "PHYS1104:AA",
+      "TRD122:CB",
+      "MGT1021:DC",
+      "CSE2023:DC",
+      "CSE2225:AA",
+      "ECON2004:BA",
+      "MATH2055:AA",
+      "MATH2059:AA",
+      "CSE2246:CB",
+      "CSE2138:AA",
+      "CSE2260:DD",
+      "EE2032:DD",
+      "STAT2253:AA",
+      "TRD121: ",
+      "CSE2023: ",
+      "CSE3033: "
+    ]
+  }
+}

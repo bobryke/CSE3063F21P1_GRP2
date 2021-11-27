@@ -1,0 +1,49 @@
+{
+  "studentName": "Donnie Pankratz",
+  "studentID": "150118023",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.6140350877192984,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:BA",
+      "CSE1200:AA",
+      "CSE1241:BB",
+      "MATH1001:FD",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:AA",
+      "MATH1002:BB",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:CB",
+      "TRD122:CC",
+      "MGT3082:CC",
+      "CSE2023:DD",
+      "CSE2225:DC",
+      "ECON2004:CC",
+      "EE2031:DC",
+      "MATH2055:AA",
+      "CSE2246:DD",
+      "CSE2138:BB",
+      "CSE2260:CB",
+      "EE2032:BA",
+      "STAT2253:AA"
+    ]
+  }
+}

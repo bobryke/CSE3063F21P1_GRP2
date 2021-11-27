@@ -1,0 +1,27 @@
+{
+  "studentName": "Derrick Cannady",
+  "studentID": "150120062",
+  "studentSemester": 1,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 0.0,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |        CSE1200|         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |       PHYS1103|               |       PHYS1103|               |               |",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "CSE1200: ",
+      "MATH1001: ",
+      "PHYS1103: ",
+      "TRD121: "
+    ]
+  }
+}

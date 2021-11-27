@@ -1,0 +1,50 @@
+{
+  "studentName": "Kimberli Hammerstrom",
+  "studentID": "150118019",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.7542372881355934,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BA",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:CB",
+      "MATH1001:AA",
+      "PHYS1101:FF",
+      "PHYS1103:DD",
+      "TRD121:BA",
+      "ATA122:CC",
+      "CSE1242:CC",
+      "MATH1002:FF",
+      "MATH2256:AA",
+      "PHYS1102:AA",
+      "PHYS1104:BB",
+      "TRD122:CC",
+      "MRK3082:AA",
+      "CSE2023:BB",
+      "CSE2225:AA",
+      "ECON2004:AA",
+      "EE2031:AA",
+      "MATH2055:BA",
+      "MATH2059:FF",
+      "CSE2246:DC",
+      "CSE2138:BB",
+      "CSE2260:BA",
+      "EE2032:BA",
+      "STAT2253:FD"
+    ]
+  }
+}

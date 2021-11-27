@@ -1,0 +1,39 @@
+{
+  "studentName": "Loni Dipaolo",
+  "studentID": "150119060",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.5,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:DC",
+      "MATH1001:DC",
+      "PHYS1101:DC",
+      "PHYS1103:CC",
+      "TRD121:AA",
+      "ATA122:AA",
+      "CSE1242:CB",
+      "MATH1002:AA",
+      "MATH2256:CB",
+      "PHYS1102:CC",
+      "PHYS1104:DC",
+      "TRD122:CC",
+      "NTE1002:FF"
+    ]
+  }
+}

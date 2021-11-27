@@ -1,0 +1,43 @@
+{
+  "studentName": "Ladawn Wenger",
+  "studentID": "150119010",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 2.7131147540983607,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |        CSE2225|               |               |",
+    " 10:30 - 11:20 |       ECON2004|         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|               |       MATH2059|",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |         EE2031|",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |       MATH2059|",
+    " 16:00 - 16:50 |               |               |               |         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:BB",
+      "CSE1200:CB",
+      "CSE1241:CC",
+      "MATH1001:BB",
+      "PHYS1101:BA",
+      "PHYS1103:AA",
+      "TRD121:DC",
+      "ATA122:CB",
+      "CSE1242:CC",
+      "MATH1002:BB",
+      "MATH2256:BB",
+      "PHYS1102:BB",
+      "PHYS1104:BA",
+      "TRD122:BB",
+      "IKT1054:BA",
+      "CSE2225: ",
+      "ECON2004: ",
+      "EE2031: ",
+      "MATH2059: "
+    ]
+  }
+}

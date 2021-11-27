@@ -1,0 +1,41 @@
+{
+  "studentName": "Jarod Saldivar",
+  "studentID": "150119033",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.5491803278688523,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |        MBG1201|               |       PHYS1101|               |",
+    " 13:00 - 13:50 |       PHYS1101|               |               |               |       PHYS1101|",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        MBG1201|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:DD",
+      "CSE1200:BB",
+      "CSE1241:CC",
+      "MATH1001:AA",
+      "PHYS1101:DC",
+      "PHYS1103:AA",
+      "TRD121:CC",
+      "ATA122:BB",
+      "CSE1242:CC",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:FF",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "CAS3001:DC",
+      "MBG1201: ",
+      "PHYS1101: "
+    ]
+  }
+}

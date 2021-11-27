@@ -1,0 +1,53 @@
+{
+  "studentName": "Natacha Morgen",
+  "studentID": "150118018",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.610169491525424,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |       MATH2055|               |               |",
+    " 10:30 - 11:20 |               |        CSE2225|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |       MATH2055|               |",
+    " 13:00 - 13:50 |               |               |               |         IE3081|        CSE2225|",
+    " 14:00 - 14:50 |               |               |         IE3081|               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |         IE3081|"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:CB",
+      "PHYS1103:DD",
+      "TRD121:CB",
+      "ATA122:DC",
+      "CSE1242:DC",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:BB",
+      "PHYS1104:FF",
+      "TRD122:AA",
+      "YDF1001:AA",
+      "CSE2023:CC",
+      "CSE2225:DC",
+      "ECON2004:CB",
+      "EE2031:AA",
+      "MATH2055:DD",
+      "MATH2059:AA",
+      "CSE2246:AA",
+      "CSE2138:FD",
+      "CSE2260:FF",
+      "EE2032:BB",
+      "STAT2253:CC",
+      "CSE2225: ",
+      "MATH2055: ",
+      "IE3081: "
+    ]
+  }
+}

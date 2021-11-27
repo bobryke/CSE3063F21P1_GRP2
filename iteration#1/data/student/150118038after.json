@@ -1,0 +1,57 @@
+{
+  "studentName": "Romona Noto",
+  "studentID": "150118038",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.233050847457627,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |        CSE3063|               |        CSE3000|               |",
+    " 10:30 - 11:20 |               |         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |        MBG1201|               |               |               |",
+    " 13:00 - 13:50 |        CSE3000|               |               |               |         EE2031|",
+    " 14:00 - 14:50 |               |               |               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|        MBG1201|               |        CSE3063|",
+    " 16:00 - 16:50 |               |               |        CSE3063|         EE2031|               |",
+    " 17:00 - 17:50 |        CSE3000|               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118038 to add CSE3033 because of 2 hours of collision with CSE1200,EE2031"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FD",
+      "MBG1201:DD",
+      "CSE1200:FF",
+      "CSE1241:CC",
+      "MATH1001:CB",
+      "PHYS1101:BB",
+      "PHYS1103:BB",
+      "TRD121:BB",
+      "ATA122:BA",
+      "CSE1242:DC",
+      "MATH1002:DC",
+      "MATH2256:CC",
+      "PHYS1102:CC",
+      "PHYS1104:FF",
+      "TRD122:BA",
+      "CAS2002:DC",
+      "CSE2023:BA",
+      "CSE2225:BB",
+      "ECON2004:CC",
+      "EE2031:DD",
+      "MATH2055:BB",
+      "MATH2059:AA",
+      "CSE2246:BA",
+      "CSE2138:BB",
+      "CSE2260:BB",
+      "EE2032:FF",
+      "STAT2253:BB",
+      "MBG1201: ",
+      "CSE1200: ",
+      "EE2031: ",
+      "CSE3000: ",
+      "CSE3063: "
+    ]
+  }
+}

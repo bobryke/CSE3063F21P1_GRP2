@@ -1,0 +1,46 @@
+{
+  "studentName": "Earleen Havener",
+  "studentID": "150119066",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.3360655737704916,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |               |               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|        CSE1200|               |               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|        CSE2023|       MATH2059|",
+    " 13:00 - 13:50 |       PHYS1101|       ECON2004|               |               |       PHYS1101|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|        CSE2023|               |       MATH2059|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119066 to add CSE2225 because of 3 hours of collision with CSE1200,CSE2023,PHYS1101"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:CC",
+      "CSE1200:DD",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:FF",
+      "PHYS1103:BA",
+      "TRD121:CC",
+      "ATA122:BA",
+      "CSE1242:DC",
+      "MATH1002:DC",
+      "MATH2256:CC",
+      "PHYS1102:CB",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "YDI1004:CB",
+      "CSE1200: ",
+      "PHYS1101: ",
+      "CSE2023: ",
+      "ECON2004: ",
+      "MATH2059: "
+    ]
+  }
+}

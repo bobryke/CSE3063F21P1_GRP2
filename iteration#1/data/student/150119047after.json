@@ -1,0 +1,44 @@
+{
+  "studentName": "Jeannie Youns",
+  "studentID": "150119047",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.7459016393442623,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |       MATH2055|               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |       MATH2055|               |",
+    " 13:00 - 13:50 |       PHYS1103|       ECON2004|       PHYS1103|               |       PHYS1101|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE2023|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |       MATH2055|"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BA",
+      "MBG1201:BB",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:DC",
+      "PHYS1103:DC",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:DD",
+      "MATH1002:AA",
+      "MATH2256:BA",
+      "PHYS1102:DC",
+      "PHYS1104:DC",
+      "TRD122:BB",
+      "LAW2004:CC",
+      "PHYS1101: ",
+      "PHYS1103: ",
+      "CSE2023: ",
+      "ECON2004: ",
+      "MATH2055: "
+    ]
+  }
+}

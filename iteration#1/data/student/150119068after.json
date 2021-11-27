@@ -1,0 +1,48 @@
+{
+  "studentName": "Yoko Glebocki",
+  "studentID": "150119068",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.4672131147540983,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|       MATH1001|        CSE2225|               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|        CSE2023|       MATH2059|",
+    " 13:00 - 13:50 |       MATH1001|       ECON2004|               |               |         EE2031|",
+    " 14:00 - 14:50 |        CSE2023|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|         ATA121|       MATH2059|",
+    " 16:00 - 16:50 |               |               |         ATA121|         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [
+    "[VERIFICATION-FAILED]:The advisor Prof. Dr. Haluk Rahmi TOCUOGLU didnt approve the registration of the student150119068. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:AA",
+      "CSE1200:CC",
+      "CSE1241:CC",
+      "MATH1001:DC",
+      "PHYS1101:AA",
+      "PHYS1103:CC",
+      "TRD121:BB",
+      "ATA122:BA",
+      "CSE1242:AA",
+      "MATH1002:AA",
+      "MATH2256:FF",
+      "PHYS1102:DD",
+      "PHYS1104:BB",
+      "TRD122:DC",
+      "YDI1004:CB",
+      "ATA121: ",
+      "MATH1001: ",
+      "CSE2023: ",
+      "CSE2225: ",
+      "ECON2004: ",
+      "EE2031: ",
+      "MATH2059: "
+    ]
+  }
+}

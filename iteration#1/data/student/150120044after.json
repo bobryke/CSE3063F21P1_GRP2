@@ -1,0 +1,28 @@
+{
+  "studentName": "Santiago Leavelle",
+  "studentID": "150120044",
+  "studentSemester": 1,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 0.0,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |        CSE1200|               |               |               |",
+    " 11:30 - 12:20 |               |        MBG1201|               |               |               |",
+    " 13:00 - 13:50 |       PHYS1103|               |       PHYS1103|               |               |",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|        MBG1201|         ATA121|               |",
+    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121: ",
+      "MBG1201: ",
+      "CSE1200: ",
+      "MATH1001: ",
+      "PHYS1103: "
+    ]
+  }
+}

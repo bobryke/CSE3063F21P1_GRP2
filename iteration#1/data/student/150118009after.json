@@ -1,0 +1,56 @@
+{
+  "studentName": "Giovanna Volin",
+  "studentID": "150118009",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.0580357142857144,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |        CSE1200|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |       MATH1001|               |               |        CSE3215|               |",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |        CSE3215|        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE3215|               |               |        CSE3215|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |        CSE3215|               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118009 to add CSE3055 because of 2 hours of collision with CSE1200,MATH1001",
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118009 to add CSE3063 because of 2 hours of collision with CSE3215,MATH1001",
+    "[VERIFICATION-FAILED]:The advisor Doc. Dr. Omer KORCAK didnt approve the registration of the student150118009. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:FD",
+      "CSE1241:FF",
+      "MATH1001:DC",
+      "PHYS1101:DD",
+      "PHYS1103:BB",
+      "TRD121:CC",
+      "ATA122:BA",
+      "MATH1002:CB",
+      "MATH2256:FF",
+      "PHYS1102:CC",
+      "PHYS1104:DD",
+      "TRD122:DD",
+      "YDA2001:FF",
+      "CSE2023:AA",
+      "CSE2225:CC",
+      "ECON2004:DD",
+      "EE2031:AA",
+      "MATH2055:CC",
+      "MATH2059:CC",
+      "CSE2246:DC",
+      "CSE2138:CC",
+      "CSE2260:BA",
+      "EE2032:CB",
+      "STAT2253:AA",
+      "CSE1200: ",
+      "MATH1001: ",
+      "CSE3215: "
+    ]
+  }
+}

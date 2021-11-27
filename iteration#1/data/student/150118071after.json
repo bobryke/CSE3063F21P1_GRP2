@@ -1,0 +1,52 @@
+{
+  "studentName": "Estella Cruell",
+  "studentID": "150118071",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 1.9770642201834863,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |        CSE3000|               |        CSE3063|               |        MBG1201|",
+    " 11:30 - 12:20 |        CSE3063|               |               |               |        MBG1201|",
+    " 13:00 - 13:50 |        MBG1201|               |               |        CSE3000|               |",
+    " 14:00 - 14:50 |        CSE3000|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |         ATA121|               |               |",
+    " 16:00 - 16:50 |               |        CSE3063|               |               |               |",
+    " 17:00 - 17:50 |               |        CSE3000|               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:DC",
+      "CSE1200:DC",
+      "CSE1241:AA",
+      "MATH1001:FF",
+      "PHYS1101:CC",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:DC",
+      "MATH1002:DD",
+      "MATH2256:AA",
+      "PHYS1102:FD",
+      "PHYS1104:AA",
+      "TRD122:AA",
+      "BUS2005:BB",
+      "CSE2023:CC",
+      "CSE2225:DD",
+      "ECON2004:BB",
+      "MATH2055:CC",
+      "CSE2246:FD",
+      "CSE2138:CC",
+      "CSE2260:FD",
+      "EE2032:BB",
+      "STAT2253:BB",
+      "ATA121: ",
+      "MBG1201: ",
+      "CSE3000: ",
+      "CSE3063: "
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "studentName": "Thurman Belscher",
+  "studentID": "150118020",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.766949152542373,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:CB",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:CC",
+      "PHYS1101:CC",
+      "PHYS1103:CB",
+      "TRD121:CB",
+      "ATA122:CC",
+      "CSE1242:CC",
+      "MATH1002:DD",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "NTE1002:BA",
+      "CSE2023:BB",
+      "CSE2225:BA",
+      "ECON2004:CB",
+      "EE2031:AA",
+      "MATH2055:CC",
+      "MATH2059:BB",
+      "CSE2246:DC",
+      "CSE2138:AA",
+      "CSE2260:BA",
+      "EE2032:DC",
+      "STAT2253:BA"
+    ]
+  }
+}

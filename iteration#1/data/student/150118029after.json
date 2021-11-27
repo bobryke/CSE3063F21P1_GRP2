@@ -1,0 +1,57 @@
+{
+  "studentName": "Amos Osmundson",
+  "studentID": "150118029",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.1822033898305087,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |        CSE3000|               |",
+    " 10:30 - 11:20 |               |        CSE1200|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |       PHYS1101|               |",
+    " 13:00 - 13:50 |        CSE3000|               |               |               |       PHYS1101|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|               |         ATA121|        CSE3000|",
+    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
+    " 17:00 - 17:50 |        CSE3000|               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118029 to add CSE3055 because of 3 hours of collision with CSE1200,PHYS1101,MATH1001"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:CC",
+      "MATH1001:DD",
+      "PHYS1101:DD",
+      "PHYS1103:FF",
+      "TRD121:DD",
+      "ATA122:DC",
+      "CSE1242:AA",
+      "MATH1002:CC",
+      "MATH2256:FF",
+      "PHYS1102:BA",
+      "PHYS1104:DC",
+      "TRD122:CB",
+      "CAS2004:BA",
+      "CSE2023:CC",
+      "CSE2225:CC",
+      "ECON2004:BA",
+      "EE2031:DC",
+      "MATH2055:BB",
+      "MATH2059:CC",
+      "CSE2246:DC",
+      "CSE2138:BA",
+      "CSE2260:BB",
+      "EE2032:CC",
+      "STAT2253:CC",
+      "ATA121: ",
+      "CSE1200: ",
+      "MATH1001: ",
+      "PHYS1101: ",
+      "CSE3000: "
+    ]
+  }
+}

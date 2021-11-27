@@ -1,0 +1,43 @@
+{
+  "studentName": "Elwood Pietschman",
+  "studentID": "150119003",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.6885245901639343,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |       PHYS1101|               |",
+    " 13:00 - 13:50 |       PHYS1101|               |               |               |       PHYS1101|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119003 to add CSE2023 because of 2 hours of collision with PHYS1101,MATH1001"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:BB",
+      "CSE1200:CC",
+      "CSE1241:BA",
+      "MATH1001:FD",
+      "PHYS1101:DC",
+      "PHYS1103:AA",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:CC",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:AA",
+      "PHYS1104:AA",
+      "TRD122:FD",
+      "NTE1008:CC",
+      "MATH1001: ",
+      "PHYS1101: "
+    ]
+  }
+}

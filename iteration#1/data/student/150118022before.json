@@ -1,0 +1,50 @@
+{
+  "studentName": "Maria Sedy",
+  "studentID": "150118022",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.792372881355932,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:DC",
+      "CSE1200:BB",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:CB",
+      "ATA122:DC",
+      "CSE1242:AA",
+      "MATH1002:BA",
+      "MATH2256:CB",
+      "PHYS1102:BA",
+      "PHYS1104:CB",
+      "TRD122:BA",
+      "HSS3002:BA",
+      "CSE2023:FF",
+      "CSE2225:AA",
+      "ECON2004:DC",
+      "EE2031:BA",
+      "MATH2055:BA",
+      "MATH2059:BB",
+      "CSE2246:BA",
+      "CSE2138:AA",
+      "CSE2260:AA",
+      "EE2032:DD",
+      "STAT2253:DC"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "studentName": "Kristin Crabbe",
+  "studentID": "150119045",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.3852459016393444,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:DD",
+      "CSE1241:DD",
+      "MATH1001:BB",
+      "PHYS1101:DC",
+      "PHYS1103:BA",
+      "TRD121:DD",
+      "ATA122:AA",
+      "CSE1242:CB",
+      "MATH1002:CC",
+      "MATH2256:AA",
+      "PHYS1102:BB",
+      "PHYS1104:CC",
+      "TRD122:DC",
+      "YDF1001:DC"
+    ]
+  }
+}

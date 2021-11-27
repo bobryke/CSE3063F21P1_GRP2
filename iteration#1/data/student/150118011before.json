@@ -1,0 +1,50 @@
+{
+  "studentName": "Margorie Monforte",
+  "studentID": "150118011",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.7584745762711864,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:AA",
+      "CSE1200:FD",
+      "CSE1241:BA",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:DC",
+      "ATA122:BA",
+      "CSE1242:BA",
+      "MATH1002:CC",
+      "MATH2256:AA",
+      "PHYS1102:CB",
+      "PHYS1104:CB",
+      "TRD122:DD",
+      "LAW2004:CB",
+      "CSE2023:CC",
+      "CSE2225:DC",
+      "ECON2004:DC",
+      "EE2031:AA",
+      "MATH2055:AA",
+      "MATH2059:AA",
+      "CSE2246:AA",
+      "CSE2138:BA",
+      "CSE2260:AA",
+      "EE2032:DD",
+      "STAT2253:DD"
+    ]
+  }
+}

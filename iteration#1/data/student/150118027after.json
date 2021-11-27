@@ -1,0 +1,53 @@
+{
+  "studentName": "Alonzo Whipkey",
+  "studentID": "150118027",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.3482142857142856,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |        CSE2225|               |               |",
+    " 10:30 - 11:20 |               |        CSE2225|         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |       PHYS1103|               |       PHYS1103|        CSE3215|        CSE2225|",
+    " 14:00 - 14:50 |               |               |               |        CSE3215|               |",
+    " 15:00 - 15:50 |               |        CSE3215|        CSE2225|               |        CSE3215|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |        CSE3215|               |         TRD121|               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:CB",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:FD",
+      "TRD121:FF",
+      "ATA122:DC",
+      "CSE1242:DD",
+      "MATH1002:BB",
+      "MATH2256:FD",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "YDI1004:AA",
+      "CSE2023:BB",
+      "CSE2225:FF",
+      "ECON2004:CC",
+      "EE2031:DC",
+      "MATH2055:BA",
+      "MATH2059:BA",
+      "CSE2138:DD",
+      "CSE2260:FD",
+      "EE2032:AA",
+      "STAT2253:AA",
+      "PHYS1103: ",
+      "TRD121: ",
+      "CSE2225: ",
+      "CSE3215: "
+    ]
+  }
+}

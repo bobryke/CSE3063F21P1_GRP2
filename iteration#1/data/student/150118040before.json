@@ -1,0 +1,50 @@
+{
+  "studentName": "Earleen Havener",
+  "studentID": "150118040",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.516949152542373,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:BB",
+      "CSE1200:CB",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:CB",
+      "PHYS1103:CB",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:AA",
+      "MATH1002:BA",
+      "MATH2256:FD",
+      "PHYS1102:CC",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "CAS3001:CC",
+      "CSE2023:DD",
+      "CSE2225:CC",
+      "ECON2004:FF",
+      "EE2031:AA",
+      "MATH2055:FF",
+      "MATH2059:AA",
+      "CSE2246:BB",
+      "CSE2138:CC",
+      "CSE2260:CC",
+      "EE2032:BB",
+      "STAT2253:DC"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "studentName": "Milagro Dobric",
+  "studentID": "150118052",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.349557522123894,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:CC",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:DC",
+      "PHYS1101:BB",
+      "PHYS1103:CC",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:CC",
+      "MATH1002:FD",
+      "MATH2256:DC",
+      "PHYS1102:FF",
+      "PHYS1104:CC",
+      "TRD122:CB",
+      "NTE1002:BB",
+      "CSE2023:DC",
+      "CSE2225:AA",
+      "ECON2004:CB",
+      "MATH2055:BB",
+      "MATH2059:BB",
+      "CSE2246:CC",
+      "CSE2138:CC",
+      "CSE2260:AA",
+      "EE2032:CB",
+      "STAT2253:BA"
+    ]
+  }
+}

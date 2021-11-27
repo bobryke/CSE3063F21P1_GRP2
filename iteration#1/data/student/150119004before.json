@@ -1,0 +1,39 @@
+{
+  "studentName": "Willy Struzzi",
+  "studentID": "150119004",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.5081967213114753,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:CC",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:BB",
+      "PHYS1101:FF",
+      "PHYS1103:CB",
+      "TRD121:CB",
+      "ATA122:DC",
+      "CSE1242:FD",
+      "MATH1002:CB",
+      "MATH2256:AA",
+      "PHYS1102:DC",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "NTE1013:AA"
+    ]
+  }
+}

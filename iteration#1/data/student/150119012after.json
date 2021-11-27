@@ -1,0 +1,43 @@
+{
+  "studentName": "Romona Noto",
+  "studentID": "150119012",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Fatma Corut ERGIN",
+  "gpa": 2.5491803278688523,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |       ECON2004|         EE2031|               |        CSE1241|               |",
+    " 11:30 - 12:20 |               |               |        CSE1241|               |        CSE1241|",
+    " 13:00 - 13:50 |       MATH1001|       ECON2004|        CSE1241|               |         EE2031|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:AA",
+      "CSE1200:FF",
+      "CSE1241:DC",
+      "MATH1001:DC",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:CC",
+      "MATH1002:BB",
+      "MATH2256:DC",
+      "PHYS1102:AA",
+      "PHYS1104:AA",
+      "TRD122:AA",
+      "LAW2004:CC",
+      "CSE1241: ",
+      "MATH1001: ",
+      "ECON2004: ",
+      "EE2031: "
+    ]
+  }
+}

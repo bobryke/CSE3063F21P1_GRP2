@@ -1,0 +1,50 @@
+{
+  "studentName": "Estella Cruell",
+  "studentID": "150118064",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.707627118644068,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:CB",
+      "CSE1200:CB",
+      "CSE1241:AA",
+      "MATH1001:BB",
+      "PHYS1101:BA",
+      "PHYS1103:CC",
+      "TRD121:BA",
+      "ATA122:CB",
+      "CSE1242:AA",
+      "MATH1002:CC",
+      "MATH2256:DC",
+      "PHYS1102:DC",
+      "PHYS1104:CB",
+      "TRD122:CC",
+      "CAS1001:BA",
+      "CSE2023:BB",
+      "CSE2225:AA",
+      "ECON2004:DD",
+      "EE2031:CC",
+      "MATH2055:BA",
+      "MATH2059:CC",
+      "CSE2246:CC",
+      "CSE2138:BA",
+      "CSE2260:DC",
+      "EE2032:CC",
+      "STAT2253:BA"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "studentName": "Donnie Pankratz",
+  "studentID": "150119008",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 3.0491803278688523,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |        CSE4219|               |               |",
+    " 11:30 - 12:20 |               |        CSE3055|               |         ISG121|               |",
+    " 13:00 - 13:50 |               |               |               |               |        CSE3055|",
+    " 14:00 - 14:50 |               |         ISG121|               |               |        CSE3055|",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |        CSE4219|               |        CSE4219|               |",
+    " 17:00 - 17:50 |               |               |        CSE3055|        CSE4219|               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:CC",
+      "PHYS1101:DD",
+      "PHYS1103:CB",
+      "TRD121:AA",
+      "ATA122:BA",
+      "CSE1242:AA",
+      "MATH1002:CB",
+      "MATH2256:AA",
+      "PHYS1102:DC",
+      "PHYS1104:DC",
+      "TRD122:AA",
+      "CAS2005:CC",
+      "CSE3055: ",
+      "CSE4219: ",
+      "ISG121: "
+    ]
+  }
+}

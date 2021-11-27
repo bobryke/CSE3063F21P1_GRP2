@@ -1,0 +1,48 @@
+{
+  "studentName": "Carmine Estepp",
+  "studentID": "150119051",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.6557377049180326,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |       MATH2055|               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|       MATH2055|       MATH2059|",
+    " 13:00 - 13:50 |       PHYS1101|       ECON2004|               |               |         EE2031|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE2023|         ATA121|       MATH2059|",
+    " 16:00 - 16:50 |               |               |         ATA121|         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |       MATH2055|"
+  ],
+  "actions": [
+    "[VERIFICATION-FAILED]:The advisor Prof. Dr. Haluk Rahmi TOCUOGLU didnt approve the registration of the student150119051. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:BB",
+      "CSE1200:BA",
+      "CSE1241:CB",
+      "MATH1001:AA",
+      "PHYS1101:FF",
+      "PHYS1103:CC",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:AA",
+      "MATH1002:CB",
+      "MATH2256:DC",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "CAS2003:DC",
+      "ATA121: ",
+      "PHYS1101: ",
+      "CSE2023: ",
+      "ECON2004: ",
+      "EE2031: ",
+      "MATH2055: ",
+      "MATH2059: "
+    ]
+  }
+}

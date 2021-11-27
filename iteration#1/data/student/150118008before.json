@@ -1,0 +1,50 @@
+{
+  "studentName": "Alicia Kleimola",
+  "studentID": "150118008",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.4957627118644066,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:BB",
+      "CSE1200:BB",
+      "CSE1241:DC",
+      "MATH1001:DC",
+      "PHYS1101:BB",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:AA",
+      "MATH1002:BA",
+      "MATH2256:BB",
+      "PHYS1102:CC",
+      "PHYS1104:AA",
+      "TRD122:DC",
+      "CAS3044:AA",
+      "CSE2023:CC",
+      "CSE2225:DC",
+      "ECON2004:AA",
+      "EE2031:DC",
+      "MATH2055:DC",
+      "MATH2059:DD",
+      "CSE2246:AA",
+      "CSE2138:FF",
+      "CSE2260:AA",
+      "EE2032:AA",
+      "STAT2253:DC"
+    ]
+  }
+}

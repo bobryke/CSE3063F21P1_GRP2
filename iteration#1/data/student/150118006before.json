@@ -1,0 +1,50 @@
+{
+  "studentName": "Amos Osmundson",
+  "studentID": "150118006",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Fatma Corut ERGIN",
+  "gpa": 2.885593220338983,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:DC",
+      "MATH1001:CC",
+      "PHYS1101:BA",
+      "PHYS1103:CC",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:AA",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:DD",
+      "TRD122:CC",
+      "MAN1001:DC",
+      "CSE2023:BB",
+      "CSE2225:AA",
+      "ECON2004:AA",
+      "EE2031:CB",
+      "MATH2055:BA",
+      "MATH2059:CC",
+      "CSE2246:FF",
+      "CSE2138:AA",
+      "CSE2260:BB",
+      "EE2032:DC",
+      "STAT2253:AA"
+    ]
+  }
+}

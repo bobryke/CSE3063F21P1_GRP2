@@ -1,0 +1,38 @@
+{
+  "studentName": "Linwood Koble",
+  "studentID": "150119018",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
+  "gpa": 2.1,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:BA",
+      "CSE1200:DC",
+      "CSE1241:FD",
+      "MATH1001:DC",
+      "PHYS1101:CC",
+      "PHYS1103:FF",
+      "TRD121:DD",
+      "ATA122:AA",
+      "MATH1002:DD",
+      "MATH2256:AA",
+      "PHYS1102:DD",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "MRK3082:AA"
+    ]
+  }
+}

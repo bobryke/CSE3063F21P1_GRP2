@@ -1,0 +1,50 @@
+{
+  "studentName": "Yoko Glebocki",
+  "studentID": "150118069",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.4364406779661016,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:FF",
+      "CSE1200:CC",
+      "CSE1241:BB",
+      "MATH1001:BA",
+      "PHYS1101:BB",
+      "PHYS1103:CC",
+      "TRD121:AA",
+      "ATA122:DC",
+      "CSE1242:DD",
+      "MATH1002:CC",
+      "MATH2256:AA",
+      "PHYS1102:CC",
+      "PHYS1104:DC",
+      "TRD122:DC",
+      "NTE1010:AA",
+      "CSE2023:FD",
+      "CSE2225:CB",
+      "ECON2004:BA",
+      "EE2031:AA",
+      "MATH2055:BA",
+      "MATH2059:CC",
+      "CSE2246:CC",
+      "CSE2138:BA",
+      "CSE2260:BB",
+      "EE2032:AA",
+      "STAT2253:FD"
+    ]
+  }
+}

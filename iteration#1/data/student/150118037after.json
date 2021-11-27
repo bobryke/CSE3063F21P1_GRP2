@@ -1,0 +1,56 @@
+{
+  "studentName": "Lissa Dejaeger",
+  "studentID": "150118037",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
+  "gpa": 2.6779661016949152,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |       MATH2055|        CSE3000|               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |       MATH2055|               |",
+    " 13:00 - 13:50 |        CSE3000|               |               |        CSE3215|               |",
+    " 14:00 - 14:50 |               |               |               |        CSE3215|               |",
+    " 15:00 - 15:50 |               |        CSE3215|               |               |        CSE3215|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |        CSE3215|               |               |               |       MATH2055|"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118037 to add CSE3033 because of 2 hours of collision with CSE3215,MATH2055",
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118037 to add IE3081 because of 2 hours of collision with CSE3215,MATH2055"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:CB",
+      "CSE1200:DC",
+      "CSE1241:BA",
+      "MATH1001:AA",
+      "PHYS1101:AA",
+      "PHYS1103:CC",
+      "TRD121:CC",
+      "ATA122:CC",
+      "CSE1242:CB",
+      "MATH1002:AA",
+      "MATH2256:CB",
+      "PHYS1102:DC",
+      "PHYS1104:AA",
+      "TRD122:DC",
+      "CAS2003:BB",
+      "CSE2023:AA",
+      "CSE2225:CB",
+      "ECON2004:DD",
+      "EE2031:CC",
+      "MATH2055:FF",
+      "MATH2059:BA",
+      "CSE2246:BA",
+      "CSE2138:CB",
+      "CSE2260:AA",
+      "EE2032:DC",
+      "STAT2253:DC",
+      "MATH2055: ",
+      "CSE3000: ",
+      "CSE3215: "
+    ]
+  }
+}

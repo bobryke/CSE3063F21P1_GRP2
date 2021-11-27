@@ -1,0 +1,57 @@
+{
+  "studentName": "Les Tellefsen",
+  "studentID": "150118028",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.5720338983050848,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |        CSE3063|        CSE2225|               |               |",
+    " 10:30 - 11:20 |               |        CSE2225|         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |         IE3081|        CSE2225|",
+    " 14:00 - 14:50 |               |               |         IE3081|               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|         ATA121|        CSE3063|",
+    " 16:00 - 16:50 |               |               |        CSE3063|               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |         IE3081|"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118028 to add CSE3033 because of 2 hours of collision with ATA121,CSE2225"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:CB",
+      "CSE1200:AA",
+      "CSE1241:CC",
+      "MATH1001:BB",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:DD",
+      "ATA122:FF",
+      "CSE1242:BA",
+      "MATH1002:CB",
+      "MATH2256:AA",
+      "PHYS1102:DD",
+      "PHYS1104:FF",
+      "TRD122:AA",
+      "NTE1016:CC",
+      "CSE2023:CC",
+      "CSE2225:DC",
+      "ECON2004:BB",
+      "EE2031:AA",
+      "MATH2055:AA",
+      "MATH2059:CC",
+      "CSE2246:CB",
+      "CSE2138:AA",
+      "CSE2260:DC",
+      "EE2032:DC",
+      "STAT2253:CC",
+      "ATA121: ",
+      "TRD121: ",
+      "CSE2225: ",
+      "CSE3063: ",
+      "IE3081: "
+    ]
+  }
+}

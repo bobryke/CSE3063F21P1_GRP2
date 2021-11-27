@@ -1,0 +1,56 @@
+{
+  "studentName": "Rose Obeirne",
+  "studentID": "150118044",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.1026785714285716,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |        CSE3033|               |",
+    " 13:00 - 13:50 |       MATH1001|        CSE3033|               |        CSE3215|        CSE3033|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |        CSE3215|               |",
+    " 15:00 - 15:50 |               |        CSE3033|               |               |        CSE3215|",
+    " 16:00 - 16:50 |               |               |        CSE3033|               |               |",
+    " 17:00 - 17:50 |        CSE3215|               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118044 to add CSE3055 because of 2 hours of collision with CSE3033,MATH1001",
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150118044 to add CSE3063 because of 3 hours of collision with CSE3215,CSE3033,MATH1001",
+    "[VERIFICATION-FAILED]:The advisor Dr. Ogr. Uyesi Sanem Arslan didnt approve the registration of the student150118044. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:CC",
+      "CSE1241:FF",
+      "MATH1001:DC",
+      "PHYS1101:DD",
+      "PHYS1103:AA",
+      "TRD121:BB",
+      "ATA122:DD",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:BA",
+      "PHYS1104:BA",
+      "TRD122:BB",
+      "CAS2004:CB",
+      "CSE2023:DC",
+      "CSE2225:BB",
+      "ECON2004:DC",
+      "EE2031:AA",
+      "MATH2055:CC",
+      "MATH2059:BB",
+      "CSE2246:DC",
+      "CSE2138:FD",
+      "CSE2260:DC",
+      "EE2032:DC",
+      "STAT2253:FF",
+      "MATH1001: ",
+      "CSE3215: ",
+      "CSE3033: "
+    ]
+  }
+}

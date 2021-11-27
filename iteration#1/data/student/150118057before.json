@@ -1,0 +1,48 @@
+{
+  "studentName": "Elias Clewell",
+  "studentID": "150118057",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
+  "gpa": 2.4813084112149535,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:CB",
+      "CSE1200:CB",
+      "CSE1241:CB",
+      "MATH1001:DC",
+      "PHYS1101:CB",
+      "PHYS1103:CC",
+      "TRD121:AA",
+      "ATA122:DC",
+      "CSE1242:FD",
+      "MATH1002:BA",
+      "MATH2256:BB",
+      "PHYS1102:AA",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "MRK3084:BB",
+      "CSE2023:BA",
+      "ECON2004:BB",
+      "EE2031:CC",
+      "MATH2055:AA",
+      "MATH2059:CC",
+      "CSE2246:CB",
+      "CSE2138:CC",
+      "EE2032:FD",
+      "STAT2253:CB"
+    ]
+  }
+}

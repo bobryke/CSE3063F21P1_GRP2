@@ -1,0 +1,30 @@
+{
+  "studentName": "Kacie Heeralall",
+  "studentID": "150120069",
+  "studentSemester": 1,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 0.0,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |        CSE1200|               |       MATH1001|",
+    " 10:30 - 11:20 |        CSE1200|               |         ATA121|               |       MATH1001|",
+    " 11:30 - 12:20 |               |               |               |       MATH1001|               |",
+    " 13:00 - 13:50 |               |       MATH1001|         ATA121|       MATH1001|               |",
+    " 14:00 - 14:50 |               |               |       PHYS1101|               |               |",
+    " 15:00 - 15:50 |               |               |         TRD121|       PHYS1101|               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |         TRD121|       PHYS1101|"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150120069 to add PHYS1103 because of 2 hours of collision with PHYS1101,ATA121"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121: ",
+      "CSE1200: ",
+      "MATH1001: ",
+      "PHYS1101: ",
+      "TRD121: "
+    ]
+  }
+}

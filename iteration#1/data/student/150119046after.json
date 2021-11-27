@@ -1,0 +1,41 @@
+{
+  "studentName": "Erasmo Balderree",
+  "studentID": "150119046",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.8278688524590163,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |               |               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |        CSE2023|               |",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |               |",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE2023|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:CC",
+      "CSE1200:BB",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:BA",
+      "TRD121:BB",
+      "ATA122:DC",
+      "CSE1242:DC",
+      "MATH1002:AA",
+      "MATH2256:DC",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "HR1013:CC",
+      "CSE2023: ",
+      "ECON2004: "
+    ]
+  }
+}

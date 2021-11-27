@@ -1,0 +1,44 @@
+{
+  "studentName": "Estella Cruell",
+  "studentID": "150119017",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.401639344262295,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |        CSE2225|               |               |",
+    " 10:30 - 11:20 |               |        CSE2225|         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |               |       PHYS1101|               |",
+    " 13:00 - 13:50 |       PHYS1101|               |               |               |        CSE2225|",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119017 to add MATH2055 because of 2 hours of collision with PHYS1101,CSE2225"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:CB",
+      "CSE1200:CC",
+      "CSE1241:CB",
+      "MATH1001:CB",
+      "PHYS1101:DC",
+      "PHYS1103:AA",
+      "TRD121:DC",
+      "ATA122:CC",
+      "CSE1242:BB",
+      "MATH1002:CB",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:DD",
+      "TRD122:FF",
+      "NTE1006:CC",
+      "PHYS1101: ",
+      "TRD121: ",
+      "CSE2225: "
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "studentName": "Thurman Belscher",
+  "studentID": "150119061",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 1.4672131147540983,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |       ECON2004|               |               |               |               |",
+    " 11:30 - 12:20 |               |        MBG1201|               |       PHYS1101|               |",
+    " 13:00 - 13:50 |       PHYS1101|       ECON2004|               |               |       PHYS1101|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |               |        MBG1201|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119061 to add CSE2023 because of 3 hours of collision with PHYS1101,MBG1201,MATH1001"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:DD",
+      "CSE1200:CC",
+      "CSE1241:CC",
+      "MATH1001:DD",
+      "PHYS1101:FD",
+      "PHYS1103:DD",
+      "TRD121:DC",
+      "ATA122:BB",
+      "CSE1242:DD",
+      "MATH1002:FF",
+      "MATH2256:CC",
+      "PHYS1102:CB",
+      "PHYS1104:CB",
+      "TRD122:BB",
+      "NTE1010:DC",
+      "MBG1201: ",
+      "MATH1001: ",
+      "PHYS1101: ",
+      "ECON2004: "
+    ]
+  }
+}

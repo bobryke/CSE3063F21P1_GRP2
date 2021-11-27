@@ -1,0 +1,39 @@
+{
+  "studentName": "Bobbie Estel",
+  "studentID": "150119058",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.9098360655737703,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:DD",
+      "MATH1001:BB",
+      "PHYS1101:BA",
+      "PHYS1103:BB",
+      "TRD121:AA",
+      "ATA122:DC",
+      "CSE1242:BA",
+      "MATH1002:AA",
+      "MATH2256:BA",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "COMM2060:CC"
+    ]
+  }
+}

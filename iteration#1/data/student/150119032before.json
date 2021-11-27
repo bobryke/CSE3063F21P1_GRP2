@@ -1,0 +1,39 @@
+{
+  "studentName": "Loni Dipaolo",
+  "studentID": "150119032",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.3278688524590163,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:DC",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:DD",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:CC",
+      "ATA122:BB",
+      "CSE1242:AA",
+      "MATH1002:FF",
+      "MATH2256:DC",
+      "PHYS1102:BA",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "YDA2001:AA"
+    ]
+  }
+}

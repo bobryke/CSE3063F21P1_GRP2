@@ -1,0 +1,46 @@
+{
+  "studentName": "Yoko Glebocki",
+  "studentID": "150119052",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.4508196721311477,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |       MATH2055|               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|        CSE1200|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |       MATH2055|               |",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |               |",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|        CSE2023|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |       MATH2055|"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119052 to add CSE2225 because of 2 hours of collision with CSE1200,CSE2023",
+    "[VERIFICATION-FAILED]:The advisor Dr. Ogr. Uyesi Betul Demiroz BOZ didnt approve the registration of the student150119052. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:DC",
+      "CSE1200:DC",
+      "CSE1241:BB",
+      "MATH1001:DC",
+      "PHYS1101:BA",
+      "PHYS1103:DC",
+      "TRD121:BB",
+      "ATA122:AA",
+      "CSE1242:CC",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:CB",
+      "PHYS1104:AA",
+      "TRD122:CC",
+      "NTE1008:CC",
+      "CSE1200: ",
+      "CSE2023: ",
+      "ECON2004: ",
+      "MATH2055: "
+    ]
+  }
+}

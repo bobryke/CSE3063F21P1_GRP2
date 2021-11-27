@@ -1,0 +1,49 @@
+{
+  "studentName": "Isaias Hobstetter",
+  "studentID": "150118021",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.274336283185841,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:CC",
+      "CSE1200:FF",
+      "CSE1241:CC",
+      "MATH1001:CC",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:CC",
+      "ATA122:BB",
+      "CSE1242:AA",
+      "MATH1002:DC",
+      "MATH2256:AA",
+      "PHYS1102:FD",
+      "PHYS1104:BA",
+      "TRD122:CB",
+      "NTE1011:BB",
+      "CSE2023:DD",
+      "CSE2225:CC",
+      "ECON2004:AA",
+      "MATH2055:AA",
+      "MATH2059:CC",
+      "CSE2246:CC",
+      "CSE2138:DC",
+      "CSE2260:CB",
+      "EE2032:DC",
+      "STAT2253:AA"
+    ]
+  }
+}

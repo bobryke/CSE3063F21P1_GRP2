@@ -1,0 +1,39 @@
+{
+  "studentName": "Shawn Cleghorn",
+  "studentID": "150119029",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.4508196721311477,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:CB",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:FF",
+      "PHYS1101:DC",
+      "PHYS1103:BA",
+      "TRD121:DC",
+      "ATA122:CB",
+      "CSE1242:BA",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:DD",
+      "PHYS1104:DD",
+      "TRD122:AA",
+      "YDA1002:AA"
+    ]
+  }
+}

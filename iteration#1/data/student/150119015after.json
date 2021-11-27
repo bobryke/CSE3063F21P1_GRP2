@@ -1,0 +1,44 @@
+{
+  "studentName": "Matthew Drebes",
+  "studentID": "150119015",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.459016393442623,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |               |               |               |",
+    " 10:30 - 11:20 |       ECON2004|        CSE1200|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |       PHYS1103|       ECON2004|       PHYS1103|               |               |",
+    " 14:00 - 14:50 |               |               |               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [
+    "[VERIFICATION-FAILED]:The advisor Doc. Dr. Ali Fuat ALKAYA didnt approve the registration of the student150119015. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:CC",
+      "CSE1200:DD",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:CC",
+      "PHYS1103:DC",
+      "TRD121:BB",
+      "ATA122:DC",
+      "CSE1242:BB",
+      "MATH1002:BB",
+      "MATH2256:CC",
+      "PHYS1102:CC",
+      "PHYS1104:DC",
+      "TRD122:CC",
+      "YDF1002:AA",
+      "CSE1200: ",
+      "PHYS1103: ",
+      "ECON2004: "
+    ]
+  }
+}

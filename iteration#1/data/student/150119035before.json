@@ -1,0 +1,39 @@
+{
+  "studentName": "Lissa Dejaeger",
+  "studentID": "150119035",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.4918032786885247,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:DC",
+      "CSE1200:CC",
+      "CSE1241:BA",
+      "MATH1001:CB",
+      "PHYS1101:BA",
+      "PHYS1103:AA",
+      "TRD121:BA",
+      "ATA122:AA",
+      "CSE1242:FF",
+      "MATH1002:DC",
+      "MATH2256:DC",
+      "PHYS1102:BA",
+      "PHYS1104:AA",
+      "TRD122:CB",
+      "CAS3044:AA"
+    ]
+  }
+}

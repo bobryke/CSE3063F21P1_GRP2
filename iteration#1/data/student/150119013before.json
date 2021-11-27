@@ -1,0 +1,38 @@
+{
+  "studentName": "Billie Biser",
+  "studentID": "150119013",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 1.7181818181818183,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:CB",
+      "CSE1200:BA",
+      "CSE1241:FF",
+      "MATH1001:FF",
+      "PHYS1101:CC",
+      "PHYS1103:FD",
+      "TRD121:BB",
+      "ATA122:AA",
+      "MATH1002:DD",
+      "MATH2256:FF",
+      "PHYS1102:CB",
+      "PHYS1104:AA",
+      "TRD122:DC",
+      "YDI1004:AA"
+    ]
+  }
+}

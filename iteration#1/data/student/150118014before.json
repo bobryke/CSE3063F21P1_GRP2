@@ -1,0 +1,49 @@
+{
+  "studentName": "Ellis Daill",
+  "studentID": "150118014",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.584070796460177,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:BA",
+      "CSE1200:AA",
+      "CSE1241:CB",
+      "MATH1001:DC",
+      "PHYS1101:DD",
+      "PHYS1103:AA",
+      "TRD121:CB",
+      "ATA122:BB",
+      "CSE1242:CC",
+      "MATH1002:DC",
+      "MATH2256:BB",
+      "PHYS1102:AA",
+      "PHYS1104:BA",
+      "TRD122:DC",
+      "MRK3082:BB",
+      "CSE2023:BB",
+      "CSE2225:BB",
+      "ECON2004:CC",
+      "EE2031:FF",
+      "MATH2055:CC",
+      "MATH2059:AA",
+      "CSE2246:AA",
+      "CSE2138:CB",
+      "CSE2260:AA",
+      "STAT2253:CC"
+    ]
+  }
+}

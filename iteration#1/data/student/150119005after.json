@@ -1,0 +1,46 @@
+{
+  "studentName": "Romona Noto",
+  "studentID": "150119005",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.622950819672131,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|       MATH2055|               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |        MBG1201|       MATH2059|       MATH2055|       MATH2059|",
+    " 13:00 - 13:50 |       MATH1001|               |               |               |               |",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |               |        MBG1201|         ATA121|       MATH2059|",
+    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
+    " 17:00 - 17:50 |               |               |               |               |       MATH2055|"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119005 to add CSE2023 because of 2 hours of collision with MBG1201,MATH1001"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:FD",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:DD",
+      "PHYS1101:CB",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CB",
+      "CSE1242:CC",
+      "MATH1002:AA",
+      "MATH2256:DC",
+      "PHYS1102:AA",
+      "PHYS1104:BA",
+      "TRD122:AA",
+      "BUS2005:AA",
+      "ATA121: ",
+      "MBG1201: ",
+      "MATH1001: ",
+      "MATH2055: ",
+      "MATH2059: "
+    ]
+  }
+}

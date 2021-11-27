@@ -1,0 +1,50 @@
+{
+  "studentName": "Marylyn Gunter",
+  "studentID": "150118067",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.343220338983051,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:DD",
+      "CSE1200:AA",
+      "CSE1241:DC",
+      "MATH1001:BB",
+      "PHYS1101:FD",
+      "PHYS1103:CB",
+      "TRD121:FF",
+      "ATA122:DC",
+      "CSE1242:CB",
+      "MATH1002:BB",
+      "MATH2256:BA",
+      "PHYS1102:BB",
+      "PHYS1104:CB",
+      "TRD122:BA",
+      "MAN1001:DD",
+      "CSE2023:AA",
+      "CSE2225:CC",
+      "ECON2004:DD",
+      "EE2031:DC",
+      "MATH2055:DC",
+      "MATH2059:BB",
+      "CSE2246:AA",
+      "CSE2138:CC",
+      "CSE2260:CC",
+      "EE2032:BB",
+      "STAT2253:DC"
+    ]
+  }
+}

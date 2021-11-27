@@ -1,0 +1,38 @@
+{
+  "studentName": "Rose Obeirne",
+  "studentID": "150119028",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.090909090909091,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BA",
+      "MBG1201:CC",
+      "CSE1200:DC",
+      "CSE1241:FD",
+      "MATH1001:DC",
+      "PHYS1101:CB",
+      "PHYS1103:DC",
+      "TRD121:FF",
+      "ATA122:DC",
+      "MATH1002:AA",
+      "MATH2256:CB",
+      "PHYS1102:CC",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "SOC3082:CB"
+    ]
+  }
+}

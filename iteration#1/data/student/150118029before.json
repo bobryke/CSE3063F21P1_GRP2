@@ -1,0 +1,50 @@
+{
+  "studentName": "Amos Osmundson",
+  "studentID": "150118029",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.1822033898305087,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:CC",
+      "MATH1001:DD",
+      "PHYS1101:DD",
+      "PHYS1103:FF",
+      "TRD121:DD",
+      "ATA122:DC",
+      "CSE1242:AA",
+      "MATH1002:CC",
+      "MATH2256:FF",
+      "PHYS1102:BA",
+      "PHYS1104:DC",
+      "TRD122:CB",
+      "CAS2004:BA",
+      "CSE2023:CC",
+      "CSE2225:CC",
+      "ECON2004:BA",
+      "EE2031:DC",
+      "MATH2055:BB",
+      "MATH2059:CC",
+      "CSE2246:DC",
+      "CSE2138:BA",
+      "CSE2260:BB",
+      "EE2032:CC",
+      "STAT2253:CC"
+    ]
+  }
+}

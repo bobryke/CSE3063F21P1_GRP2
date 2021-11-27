@@ -1,0 +1,48 @@
+{
+  "studentName": "Regine Scipioni",
+  "studentID": "150118065",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 2.710280373831776,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:DC",
+      "CSE1200:AA",
+      "CSE1241:BB",
+      "MATH1001:AA",
+      "PHYS1101:FD",
+      "PHYS1103:AA",
+      "TRD121:DC",
+      "ATA122:AA",
+      "CSE1242:FD",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:DD",
+      "PHYS1104:BB",
+      "TRD122:FF",
+      "CAS2001:AA",
+      "CSE2023:AA",
+      "ECON2004:CC",
+      "EE2031:DC",
+      "MATH2055:AA",
+      "MATH2059:CC",
+      "CSE2246:CB",
+      "CSE2138:BB",
+      "EE2032:AA",
+      "STAT2253:CC"
+    ]
+  }
+}

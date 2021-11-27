@@ -1,0 +1,41 @@
+{
+  "studentName": "Estella Cruell",
+  "studentID": "150119071",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.4508196721311477,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |               |               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |        CSE2023|               |",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |               |",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE2023|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:CC",
+      "CSE1200:CB",
+      "CSE1241:CC",
+      "MATH1001:CB",
+      "PHYS1101:DC",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:BA",
+      "MATH1002:FD",
+      "MATH2256:AA",
+      "PHYS1102:BB",
+      "PHYS1104:BB",
+      "TRD122:CC",
+      "YDF1002:DC",
+      "CSE2023: ",
+      "ECON2004: "
+    ]
+  }
+}

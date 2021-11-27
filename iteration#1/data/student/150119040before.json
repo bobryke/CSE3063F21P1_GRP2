@@ -1,0 +1,39 @@
+{
+  "studentName": "Shawn Cleghorn",
+  "studentID": "150119040",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.557377049180328,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:CC",
+      "CSE1200:FD",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:AA",
+      "TRD121:FD",
+      "ATA122:DC",
+      "CSE1242:BB",
+      "MATH1002:BB",
+      "MATH2256:CB",
+      "PHYS1102:DC",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "NTE1016:DC"
+    ]
+  }
+}

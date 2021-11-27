@@ -1,0 +1,50 @@
+{
+  "studentName": "Maynard Mohan",
+  "studentID": "150118062",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Fatma Corut ERGIN",
+  "gpa": 2.5508474576271185,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FD",
+      "MBG1201:FD",
+      "CSE1200:DC",
+      "CSE1241:AA",
+      "MATH1001:CB",
+      "PHYS1101:DD",
+      "PHYS1103:CB",
+      "TRD121:AA",
+      "ATA122:AA",
+      "CSE1242:AA",
+      "MATH1002:CB",
+      "MATH2256:BB",
+      "PHYS1102:DD",
+      "PHYS1104:AA",
+      "TRD122:DD",
+      "INF1001:AA",
+      "CSE2023:BB",
+      "CSE2225:AA",
+      "ECON2004:BB",
+      "EE2031:CC",
+      "MATH2055:FF",
+      "MATH2059:CC",
+      "CSE2246:CC",
+      "CSE2138:CB",
+      "CSE2260:BB",
+      "EE2032:AA",
+      "STAT2253:CC"
+    ]
+  }
+}

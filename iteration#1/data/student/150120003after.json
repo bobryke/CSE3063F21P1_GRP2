@@ -1,0 +1,30 @@
+{
+  "studentName": "Giovanna Volin",
+  "studentID": "150120003",
+  "studentSemester": 1,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 0.0,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |        CSE1241|         TRD121|        CSE1241|               |",
+    " 11:30 - 12:20 |               |        MBG1201|        CSE1241|       PHYS1101|        CSE1241|",
+    " 13:00 - 13:50 |       PHYS1101|               |        CSE1241|               |       PHYS1101|",
+    " 14:00 - 14:50 |               |               |               |               |        CSE1200|",
+    " 15:00 - 15:50 |               |        CSE1200|        MBG1201|               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150120003 to add PHYS1103 because of 2 hours of collision with CSE1241,PHYS1101"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "MBG1201: ",
+      "CSE1200: ",
+      "CSE1241: ",
+      "PHYS1101: ",
+      "TRD121: "
+    ]
+  }
+}

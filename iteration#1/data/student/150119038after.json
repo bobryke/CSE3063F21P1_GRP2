@@ -1,0 +1,44 @@
+{
+  "studentName": "Angelo Phariss",
+  "studentID": "150119038",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.536363636363636,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |        CSE2225|               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |        CSE2023|               |",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |         EE2031|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |               |",
+    " 16:00 - 16:50 |               |               |               |         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [
+    "[O][VERIFICATION-FAILED]:The system didnt allow 150119038 to add MATH2055 because of 2 hours of collision with CSE2023,CSE2225"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:CC",
+      "CSE1200:BA",
+      "CSE1241:FF",
+      "MATH1001:BA",
+      "PHYS1101:DC",
+      "PHYS1103:CC",
+      "TRD121:AA",
+      "ATA122:AA",
+      "MATH1002:BB",
+      "MATH2256:AA",
+      "PHYS1102:DD",
+      "PHYS1104:AA",
+      "TRD122:BB",
+      "MRK3084:DC",
+      "CSE2023: ",
+      "CSE2225: ",
+      "ECON2004: ",
+      "EE2031: "
+    ]
+  }
+}

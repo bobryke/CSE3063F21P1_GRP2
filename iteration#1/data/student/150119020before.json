@@ -1,0 +1,39 @@
+{
+  "studentName": "Carmine Estepp",
+  "studentID": "150119020",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.5327868852459017,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:BA",
+      "CSE1200:AA",
+      "CSE1241:BB",
+      "MATH1001:CC",
+      "PHYS1101:DC",
+      "PHYS1103:BA",
+      "TRD121:AA",
+      "ATA122:FD",
+      "CSE1242:BA",
+      "MATH1002:DD",
+      "MATH2256:BA",
+      "PHYS1102:FF",
+      "PHYS1104:AA",
+      "TRD122:CC",
+      "INF1001:DC"
+    ]
+  }
+}

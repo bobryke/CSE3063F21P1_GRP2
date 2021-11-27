@@ -1,0 +1,50 @@
+{
+  "studentName": "Erasmo Balderree",
+  "studentID": "150118007",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.347457627118644,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FD",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:DC",
+      "MATH1001:DD",
+      "PHYS1101:CB",
+      "PHYS1103:CC",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:CC",
+      "MATH1002:DC",
+      "MATH2256:AA",
+      "PHYS1102:CC",
+      "PHYS1104:BB",
+      "TRD122:FF",
+      "OB3043:BB",
+      "CSE2023:DC",
+      "CSE2225:CB",
+      "ECON2004:BA",
+      "EE2031:BB",
+      "MATH2055:CC",
+      "MATH2059:DC",
+      "CSE2246:CC",
+      "CSE2138:DC",
+      "CSE2260:CC",
+      "EE2032:AA",
+      "STAT2253:BB"
+    ]
+  }
+}

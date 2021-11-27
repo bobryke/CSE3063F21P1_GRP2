@@ -1,0 +1,41 @@
+{
+  "studentName": "Carson Cutburth",
+  "studentID": "150119044",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.0163934426229506,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |       MATH2055|               |               |",
+    " 10:30 - 11:20 |               |               |         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |               |       MATH2055|               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |       MATH2055|"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:BB",
+      "CSE1200:BA",
+      "CSE1241:CB",
+      "MATH1001:FD",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:FD",
+      "ATA122:BB",
+      "CSE1242:DD",
+      "MATH1002:FF",
+      "MATH2256:AA",
+      "PHYS1102:FF",
+      "PHYS1104:BB",
+      "TRD122:AA",
+      "YDIS1002:FF",
+      "TRD121: ",
+      "MATH2055: "
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "studentName": "Delmar Demallie",
+  "studentID": "150119024",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.0901639344262297,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |       MATH1001|               |               |               |",
+    " 10:30 - 11:20 |               |         EE2031|               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |       MATH1001|               |               |               |         EE2031|",
+    " 14:00 - 14:50 |       MATH1001|       MATH1001|               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |         EE2031|               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:DC",
+      "CSE1200:AA",
+      "CSE1241:BB",
+      "MATH1001:DC",
+      "PHYS1101:CC",
+      "PHYS1103:CC",
+      "TRD121:DC",
+      "ATA122:DC",
+      "CSE1242:BA",
+      "MATH1002:FD",
+      "MATH2256:FF",
+      "PHYS1102:CC",
+      "PHYS1104:BB",
+      "TRD122:AA",
+      "LAW2004:BB",
+      "MATH1001: ",
+      "EE2031: "
+    ]
+  }
+}

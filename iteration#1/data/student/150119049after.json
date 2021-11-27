@@ -1,0 +1,45 @@
+{
+  "studentName": "Amos Osmundson",
+  "studentID": "150119049",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
+  "gpa": 2.4262295081967213,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |       MATH2055|               |               |",
+    " 10:30 - 11:20 |               |        CSE2225|         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|       MATH2055|       MATH2059|",
+    " 13:00 - 13:50 |               |               |               |               |        CSE2225|",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |       MATH2059|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |       MATH2055|"
+  ],
+  "actions": [
+    "[VERIFICATION-FAILED]:The advisor Doc. Dr. Murat Can GANIZ didnt approve the registration of the student150119049. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:CC",
+      "MATH1001:CC",
+      "PHYS1101:BB",
+      "PHYS1103:CB",
+      "TRD121:DC",
+      "ATA122:AA",
+      "CSE1242:DC",
+      "MATH1002:CC",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:CB",
+      "TRD122:BB",
+      "CAS2003:CC",
+      "TRD121: ",
+      "CSE2225: ",
+      "MATH2055: ",
+      "MATH2059: "
+    ]
+  }
+}

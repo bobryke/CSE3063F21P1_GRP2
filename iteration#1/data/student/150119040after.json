@@ -1,0 +1,43 @@
+{
+  "studentName": "Shawn Cleghorn",
+  "studentID": "150119040",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.557377049180328,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |       ECON2004|               |        CSE2225|               |        CSE2023|",
+    " 10:30 - 11:20 |       ECON2004|        CSE2225|               |               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|        CSE2023|       MATH2059|",
+    " 13:00 - 13:50 |               |       ECON2004|               |               |        CSE2225|",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |        CSE2225|        CSE2225|               |       MATH2059|",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:CC",
+      "CSE1200:FD",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:AA",
+      "TRD121:FD",
+      "ATA122:DC",
+      "CSE1242:BB",
+      "MATH1002:BB",
+      "MATH2256:CB",
+      "PHYS1102:DC",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "NTE1016:DC",
+      "CSE2023: ",
+      "CSE2225: ",
+      "ECON2004: ",
+      "MATH2059: "
+    ]
+  }
+}

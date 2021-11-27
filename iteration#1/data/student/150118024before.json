@@ -1,0 +1,50 @@
+{
+  "studentName": "Linwood Koble",
+  "studentID": "150118024",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.7966101694915255,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "actions": [],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:BA",
+      "PHYS1103:FF",
+      "TRD121:BB",
+      "ATA122:AA",
+      "CSE1242:BA",
+      "MATH1002:DD",
+      "MATH2256:DD",
+      "PHYS1102:CB",
+      "PHYS1104:AA",
+      "TRD122:CC",
+      "HR4001:CC",
+      "CSE2023:CC",
+      "CSE2225:AA",
+      "ECON2004:AA",
+      "EE2031:CC",
+      "MATH2055:CC",
+      "MATH2059:BB",
+      "CSE2246:AA",
+      "CSE2138:CC",
+      "CSE2260:BB",
+      "EE2032:AA",
+      "STAT2253:CC"
+    ]
+  }
+}

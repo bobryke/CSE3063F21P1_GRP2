@@ -1,0 +1,45 @@
+{
+  "studentName": "Milagro Dobric",
+  "studentID": "150119055",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.4508196721311477,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |        CSE2023|",
+    " 10:30 - 11:20 |               |               |         TRD121|               |               |",
+    " 11:30 - 12:20 |               |               |       MATH2059|        CSE2023|       MATH2059|",
+    " 13:00 - 13:50 |               |        CSE2023|               |               |               |",
+    " 14:00 - 14:50 |        CSE2023|               |               |               |               |",
+    " 15:00 - 15:50 |               |               |        CSE2023|         ATA121|       MATH2059|",
+    " 16:00 - 16:50 |               |               |         ATA121|               |               |",
+    " 17:00 - 17:50 |               |               |         TRD121|               |               |"
+  ],
+  "actions": [
+    "[VERIFICATION-FAILED]:The advisor Dr. Ogr. Uyesi Sanem Arslan didnt approve the registration of the student150119055. Advisor didnt allow student to re-take DD or DC classes."
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:CC",
+      "MATH1001:BA",
+      "PHYS1101:CC",
+      "PHYS1103:AA",
+      "TRD121:DC",
+      "ATA122:CB",
+      "CSE1242:BA",
+      "MATH1002:FF",
+      "MATH2256:CB",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "HSS3002:BB",
+      "ATA121: ",
+      "TRD121: ",
+      "CSE2023: ",
+      "MATH2059: "
+    ]
+  }
+}
