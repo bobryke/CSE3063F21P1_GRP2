@@ -11,6 +11,7 @@ import model.Course;
 import model.Student;
 import model.StudentTranscript;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
@@ -61,7 +62,8 @@ public class University {
 
     public void readAllInput() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        Reader reader = Files.newBufferedReader(Paths.get("iteration#1/data/input.json"));
+        //+ File.separator +
+        Reader reader = Files.newBufferedReader(Paths.get("iteration#1"+ File.separator +"data"+ File.separator +"input.json"));
 
         Map<?,?> map = gson.fromJson(reader,Map.class);
 
@@ -160,7 +162,7 @@ public class University {
 
         for(Student currStudent:students){
             String pathName = currStudent.getStudentID() + postfix;
-            FileWriter writer = new FileWriter("iteration#1/data/student/"+pathName);
+            FileWriter writer = new FileWriter("iteration#1"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName);
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
 
@@ -173,7 +175,7 @@ public class University {
 
         if(beforeRegistration==false){
             String pathName = "Department_Output_"+semester+".txt";
-            FileWriter writer = new FileWriter("iteration#1/data/department/"+pathName);
+            FileWriter writer = new FileWriter("iteration#1"+ File.separator +"data"+ File.separator +"department"+ File.separator +pathName);
             writer.write(departmentOutput);
             writer.close();
         }
