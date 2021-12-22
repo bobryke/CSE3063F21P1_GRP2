@@ -80,7 +80,7 @@
       <Text layoutX="83.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="header-text" text="O.C.R.S." />
       <Text layoutX="356.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome" text="Welcome," />
       <Line endX="633.0" layoutX="230.0" layoutY="96.0" opacity="0.1" startX="-209.0" />
-      <Label fx:id="studentName" layoutX="435.0" layoutY="50.0" styleClass="name" text="StudentName" />
+      <Label fx:id="studentName" layoutX="435.0" layoutY="47.5" styleClass="name" text="StudentName" />
       <Label fx:id="dateontop" alignment="CENTER" contentDisplay="CENTER" layoutY="17.0" prefHeight="17.0" prefWidth="900.0" text="date" />
    </children>
 </AnchorPane>
