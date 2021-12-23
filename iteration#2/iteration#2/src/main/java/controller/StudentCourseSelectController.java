@@ -105,7 +105,7 @@ public class StudentCourseSelectController implements Initializable {
     }
 
     @FXML
-    public void sendAdvisorVerification(){
+    public void sendAdvisorVerification() throws IOException {
         ObservableList<SelectCourseTable> removedRows =
                 FXCollections.observableArrayList();
 

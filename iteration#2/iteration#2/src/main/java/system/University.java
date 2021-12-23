@@ -44,8 +44,19 @@ public class University {
         studentNames = new ArrayList<String>();
     }
 
-    public void registerStudent(Student student){
+    public void registerStudent(Student student) throws IOException {
+
         students.add(student);
+        String pathName = student.getStudentID() + "before";
+        FileWriter writer = new FileWriter("iteration#2"+ File.separator+"iteration#2"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName+".json");
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
+
+        StudentDto studentDto = new StudentDto(student);
+        //With this single line of code Student object is converted to StudentDto object.
+        //Now we are ready to write the student.
+        gson.toJson(studentDto,writer);
+        writer.close();
     }
 
     public void hireAdvisor(Advisor advisor) {

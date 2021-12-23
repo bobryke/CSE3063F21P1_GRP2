@@ -1,9 +1,14 @@
 package system;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import dto.StudentDto;
 import model.Course;
 import model.Student;
 import model.StudentTranscript;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 import java.util.logging.Logger;
@@ -329,7 +334,7 @@ public class RegistrationSystem {
         return student.getStudentAdvisor().verifyStudentRegistration(student,selectedCourses);
     }
 
-    public String makeSelection(ArrayList<String> courses){
+    public String makeSelection(ArrayList<String> courses) throws IOException {
         ArrayList<Course> coursesSelected = new ArrayList<Course>();
         for(String courseCode:courses){
             Course check = university.getCourseByID(courseCode);
@@ -393,7 +398,19 @@ public class RegistrationSystem {
         for(Course course:coursesSelected){
             loggedStudent.addCourse(course);
         }
+        // Write current status of the student to json file
         logger.info("Student "+loggedStudent.getStudentID()+" successfully registered to selected courses.");
+
+        String pathName = loggedStudent.getStudentID() + "after";
+        FileWriter writer = new FileWriter("iteration#2"+ File.separator+"iteration#2"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName+".json");
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
+        StudentDto studentDto = new StudentDto(loggedStudent);
+        //With this single line of code Student object is converted to StudentDto object.
+        //Now we are ready to write the student.
+        gson.toJson(studentDto,writer);
+        writer.close();
+
         return "success";
     }
 }
