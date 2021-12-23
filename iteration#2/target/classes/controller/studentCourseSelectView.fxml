@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" stylesheets="@courseSelect.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.StudentCourseSelectController">
+   <children>
+      <TableView fx:id="courseSelectTable" layoutX="33.0" layoutY="264.0" prefHeight="322.0" prefWidth="812.0" styleClass="table-section">
+        <columns>
+          <TableColumn fx:id="courseCode" prefWidth="95.0" styleClass="course-code" text="Course Code" />
+          <TableColumn fx:id="courseName" minWidth="0.0" prefWidth="289.0" text="Course Name" />
+            <TableColumn fx:id="credit" prefWidth="75.0" text="Credit" />
+            <TableColumn fx:id="instructor" minWidth="0.0" prefWidth="279.0" text="Instructor" />
+            <TableColumn fx:id="selection" prefWidth="66.0" text="Selection" />
+        </columns>
+      </TableView>
+      <Label layoutX="175.0" layoutY="127.0" styleClass="label-section" text="Student Name:" />
+      <Label layoutX="175.0" layoutY="185.0" styleClass="label-section" text="Advisor:" />
+      <Label layoutX="452.0" layoutY="127.0" prefHeight="20.0" prefWidth="69.0" styleClass="label-section" text="Semester:" />
+      <Label layoutX="453.0" layoutY="216.0" styleClass="label-section" text="Completed Credits:" />
+      <Label layoutX="175.0" layoutY="216.0" styleClass="label-section" text="GPA:" />
+      <Label layoutX="452.0" layoutY="185.0" styleClass="label-section" text="Max. Courses can be taken:" />
+      <Label layoutX="451.0" layoutY="157.0" styleClass="label-section" text="Max. Credits can be taken:" />
+      <ImageView fitHeight="120.0" fitWidth="120.0" layoutX="35.0" layoutY="121.0" pickOnBounds="true" preserveRatio="true" styleClass="pp" />
+      <Label layoutX="623.0" layoutY="184.0" styleClass="label-field" text="10" />
+      <Label layoutX="618.0" layoutY="156.0" styleClass="label-field" text="35" />
+      <Label fx:id="semester" layoutX="517.0" layoutY="126.0" styleClass="label-field" text="Fall" />
+      <Label fx:id="studentName" layoutX="273.0" layoutY="126.0" styleClass="label-field" text="Onurcan" />
+      <Label fx:id="advisorName" layoutX="230.0" layoutY="184.0" styleClass="label-field" text="Betul Boz" />
+      <Label fx:id="completedCredits" layoutX="577.0" layoutY="215.0" styleClass="label-field" text="100" />
+      <Label fx:id="studentGPA" layoutX="210.0" layoutY="215.0" styleClass="label-field" text="3.00" />
+      <Button alignment="CENTER" layoutX="608.0" layoutY="40.0" mnemonicParsing="false" onAction="#goBackToMainMenu" prefHeight="38.0" prefWidth="122.0" styleClass="csbtn" text="Main Menu">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="26.0" fitWidth="26.0">
+               <image>
+                  <Image url="@images/home-regular-36.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Label layoutX="175.0" layoutY="157.0" styleClass="label-section" text="Student Number:" />
+      <Label fx:id="studentNumber" layoutX="285.0" layoutY="156.0" styleClass="label-field" text="150120825" />
+      <Text layoutX="364.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="head-text-cs" text="Course Selection" />
+      <Button alignment="CENTER" layoutX="751.0" layoutY="40.0" mnemonicParsing="false" onAction="#goBackToLogin" prefHeight="38.0" prefWidth="112.0" styleClass="csbtn" text="Logout">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="26.0" fitWidth="26.0">
+               <image>
+                  <Image url="@images/log-in-regular-36.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <ImageView fitHeight="70.0" fitWidth="70.0" layoutX="21.0" layoutY="25.0">
+         <image>
+            <Image url="@images/group-1.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="83.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="header-text" text="O.C.R.S." />
+      <Line endX="633.0" layoutX="230.0" layoutY="96.0" opacity="0.1" startX="-209.0" />
+      <Button layoutX="680.0" layoutY="189.0" mnemonicParsing="false" onAction="#sendAdvisorVerification" prefHeight="38.0" prefWidth="165.0" styleClass="register-course" text="Register Courses">
+         <font>
+            <Font size="15.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="24.0" fitWidth="24.0">
+               <image>
+                  <Image url="@images/list-plus-regular-36.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Button layoutX="680.0" layoutY="131.0" mnemonicParsing="false" onAction="#sendAdvisorVerification" prefHeight="38.0" prefWidth="165.0" styleClass="register-course" text="Save Draft ">
+         <font>
+            <Font size="15.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <graphic>
+            <ImageView fitHeight="22.0" fitWidth="22.0">
+               <image>
+                  <Image url="@images/save-regular-36.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
