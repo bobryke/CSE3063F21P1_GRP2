@@ -14,8 +14,10 @@ import java.io.IOException;
 import java.net.URI;
 import java.net.URL;
 import java.util.ResourceBundle;
+import java.util.logging.Logger;
 
 public class WelcomeController implements Initializable {
+    private static final Logger logger = Logger.getLogger("");
 
     @FXML
     private RegistrationSystem registrationSystem;
@@ -35,12 +37,14 @@ public class WelcomeController implements Initializable {
 
     @FXML
     public void fallButton(ActionEvent event) throws IOException {
+        logger.info("Fall semester selected");
         registrationSystem = new RegistrationSystem("Fall");
         goToLoginPage(event);
     }
 
     @FXML
     public void springButton(ActionEvent event) throws IOException {
+        logger.info("Spring semester selected");
         registrationSystem = new RegistrationSystem("Spring");
         goToLoginPage(event);
     }

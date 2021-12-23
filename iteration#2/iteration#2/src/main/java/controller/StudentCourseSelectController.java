@@ -20,9 +20,12 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
 
+import java.util.logging.Logger;
 import static javafx.scene.control.Alert.AlertType.INFORMATION;
 
 public class StudentCourseSelectController implements Initializable {
+    private static final Logger logger = Logger.getLogger("");
+
     @FXML
     private RegistrationSystem registrationSystem;
 
@@ -111,6 +114,7 @@ public class StudentCourseSelectController implements Initializable {
             if(currRow.getSelection().isSelected()){
                 selectedCourses.add(currRow.getCourseCode());
                 removedRows.add(currRow);
+                logger.info("Student "+ registrationSystem.getLoggedStudentID()+ " has selected "+ currRow.getCourseCode());
             }
         }
         if(selectedCourses.size()==0){
@@ -149,6 +153,8 @@ public class StudentCourseSelectController implements Initializable {
     }
     @FXML
     public void goBackToLogin(ActionEvent event) throws IOException {
+        logger.info("Student "+ registrationSystem.getLoggedStudentID()+ " logged out.");
+
         FXMLLoader loader = new FXMLLoader(getClass().getResource("studentLoginView.fxml"));
 
         root = loader.load();
