@@ -18,8 +18,11 @@ import java.net.URI;
 import java.net.URL;
 import java.util.ResourceBundle;
 import java.util.Scanner;
+import java.util.logging.Logger;
+
 
 public class StudentLoginController implements Initializable {
+    private static final Logger logger = Logger.getLogger("");
 
     @FXML
     private RegistrationSystem registrationSystem;
@@ -59,9 +62,11 @@ public class StudentLoginController implements Initializable {
         if (loggedStudent == null) {
             loginFailedWarning.setText("Login failed. Please enter your school ID correctly.");
             studentLogin.clear();
+            logger.warning("Login failed. Provided student number is: "+ id);
             return;
         }
         else{
+            logger.info("Successful login. Provided student number is: "+ id);
             loginFailedWarning.setText("");
             registrationSystem.loginStudent(loggedStudent);
         }

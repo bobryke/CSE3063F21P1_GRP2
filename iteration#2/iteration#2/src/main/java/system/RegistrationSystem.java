@@ -6,6 +6,8 @@ import model.StudentTranscript;
 
 import java.io.IOException;
 import java.util.*;
+import java.util.logging.Logger;
+
 
 public class RegistrationSystem {
     public University university;
@@ -16,8 +18,10 @@ public class RegistrationSystem {
     private Integer students2018;
     private Integer students2019;
     private Integer students2020;
+    private static final Logger logger = Logger.getLogger("");
 
     public RegistrationSystem(String semester) throws IOException {
+
         students2020 = 0;
         students2019 = 0;
         students2018 = 0;
@@ -41,10 +45,10 @@ public class RegistrationSystem {
         //Randomly create all the students and add them to the university.
         //University part will take the rest, it will create a json file for each randomly created student.
         //Create randomly 270 students.
-        for(int i=0;i<200;i++){
+        for(int i=0;i<270;i++){
             university.registerStudent(createRandomStudent());
         }
-        System.out.println("[INFO]:Total number of created students:"+ university.getAllStudents().size());
+        logger.info("Total number of registered students:"+ university.getAllStudents().size());
     }
 
     public Student getStudentByID(String id){
@@ -263,7 +267,7 @@ public class RegistrationSystem {
                 }
             }
         }
-
+        logger.info("Student "+studentID+" registered.");
         return student;
     }
 
@@ -292,21 +296,27 @@ public class RegistrationSystem {
                 }
             }
         }
+        logger.info("Available Students fetched for student "+ student.getStudentID());
         return availableCourses;
     }
 
     public String sendSelectionSystemVerification(Course course, Student student){
         if(course.isQuotaFull()){
+            logger.warning("The system didnt allow student " + student.getStudentID()+
+                    " to take " + course.getCourseID() + " because quota is full.");
+
             return "[Q][VERIFICATION-FAILED]:The system didnt allow student " + student.getStudentID()+
                     " to take " + course.getCourseID() + " because quota is full.";
         }
         //System should check if there is a course overlaps.
         String overlapCheck = student.checkCourseOverlap(course);
         // With this single line of code, the system verification is done thanks to Student object.
-        if(!overlapCheck.equals("success"))
-            return "[O]"+overlapCheck;
-        else
+        if(!overlapCheck.equals("success")) {
+            logger.warning(overlapCheck);
+            return "[O]" + overlapCheck;
+        }else {
             return "success";
+        }
     }
 
     public String sendSelectionAdvisorVerification(ArrayList<Course> selectedCourses, Student student){
@@ -314,9 +324,9 @@ public class RegistrationSystem {
         Advisor should check if the student took credits higher than 35.
         Advisor can check many regulations applied in our university.
         */
-        String answer = student.getStudentAdvisor().verifyStudentRegistration(student,selectedCourses);
+        logger.info("Student "+student.getStudentID()+" has sent the selected to courses to the advisor.");
         //All these checks are done by with this single line of code. Thanks to Advisor object.
-        return answer;
+        return student.getStudentAdvisor().verifyStudentRegistration(student,selectedCourses);
     }
 
     public String makeSelection(ArrayList<String> courses){
@@ -360,24 +370,30 @@ public class RegistrationSystem {
         String checkAdvisorVerification = sendSelectionAdvisorVerification(coursesSelected,loggedStudent);
         if(checkAdvisorVerification.equals("success")==false){
             if(checkAdvisorVerification.charAt(1)=='H'){
+                logger.warning("Advisor did not approve student "+loggedStudent.getStudentID()+" 's registration. Student selected more than 3 classes from higher semesters.");
                 return "Advisor didn't approve your registration.+"+"\n"+"You cannot register more than 3 classes from higher semesters.";
             }
             if(checkAdvisorVerification.charAt(1)=='D'){
+                logger.warning("Advisor did not approve student "+loggedStudent.getStudentID()+" 's registration. Advisor didn't allow student to take a class with D.");
                 return "Advisor didn't approve your registration."+"\n"+" Advisor didn't allow you to take a class with D.";
             }
             if(checkAdvisorVerification.charAt(1)=='T'){
+                logger.warning("Advisor did not approve student "+loggedStudent.getStudentID()+" 's registration. Completed credits should be greater than 155 to take a Technical Elective course.");
                 return "Advisor didn't approve your registration."+"\n"+"Completed credits should be greater than 155 to take a Technical Elective course.";
             }
             if(checkAdvisorVerification.charAt(1)=='P'){
+                logger.warning("Advisor did not approve student "+loggedStudent.getStudentID()+" 's registration. Completed credits should be greater than 165 to take CSE4191 course.");
                 return "Advisor didn't approve your registration."+"\n"+"Completed credits should be greater than 165 to take CSE4191 course.";
             }
             if(checkAdvisorVerification.charAt(1)=='C'){
+                logger.warning("Advisor did not approve student "+loggedStudent.getStudentID()+" 's registration. Student cannot take more than 35 credits in a semester.");
                 return "Advisor didn't approve your registration."+"\n"+"You cannot take more than 35 credits in a semester.";
             }
         }
         for(Course course:coursesSelected){
             loggedStudent.addCourse(course);
         }
+        logger.info("Student "+loggedStudent.getStudentID()+" successfully registered to selected courses.");
         return "success";
     }
 }

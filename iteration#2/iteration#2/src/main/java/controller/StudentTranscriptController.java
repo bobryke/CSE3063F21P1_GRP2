@@ -21,8 +21,13 @@ import table.TranscriptTable;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+import java.util.logging.Logger;
+
+import java.util.logging.Logger;
 
 public class StudentTranscriptController implements Initializable {
+
+    private static final Logger logger = Logger.getLogger("");
 
     @FXML
     private RegistrationSystem registrationSystem;
@@ -63,6 +68,9 @@ public class StudentTranscriptController implements Initializable {
     @FXML
     public void listOptions(RegistrationSystem registrationSystem){
         this.registrationSystem = registrationSystem;
+
+        logger.info("Student "+ registrationSystem.getLoggedStudentID()+ " displayed Transcript");
+
         studentGPA.setText(String.format("%3.2f",registrationSystem.getLoggedStudentGPA()));
         studentNumber.setText(registrationSystem.getLoggedStudentID().toString());
         studentName.setText(registrationSystem.getLoggedStudentName().toString());
@@ -94,6 +102,7 @@ public class StudentTranscriptController implements Initializable {
     }
     @FXML
     public void goBackToLogin(ActionEvent event) throws IOException {
+        logger.info("Student "+ registrationSystem.getLoggedStudentID()+ " logged out.");
         FXMLLoader loader = new FXMLLoader(getClass().getResource("studentLoginView.fxml"));
 
         root = loader.load();

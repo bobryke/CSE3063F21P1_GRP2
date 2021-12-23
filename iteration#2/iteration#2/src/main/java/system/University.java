@@ -18,6 +18,7 @@ import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.logging.Logger;
 
 import static java.util.List.of;
 
@@ -29,6 +30,8 @@ public class University {
     private ArrayList<Course> teCourses;
     private ArrayList<Advisor> advisors;
     private List<String> studentNames;
+    private static final Logger logger = Logger.getLogger("");
+
 
 
     public University() {
@@ -52,7 +55,7 @@ public class University {
     public void readAllInput() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         //+ File.separator +
-        Reader reader = Files.newBufferedReader(Paths.get("iteration#1"+ File.separator +"data"+ File.separator +"input.json"));
+        Reader reader = Files.newBufferedReader(Paths.get("iteration#2"+ File.separator + "iteration#2"+ File.separator +"data"+ File.separator +"input.json"));
 
         Map<?,?> map = gson.fromJson(reader,Map.class);
 

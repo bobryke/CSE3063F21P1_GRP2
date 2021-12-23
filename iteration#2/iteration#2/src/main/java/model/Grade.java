@@ -1,5 +1,7 @@
 package model;
 
+import java.util.logging.Logger;
+
 public class Grade {
     private String letterGrade;
     private Double courseGPA;

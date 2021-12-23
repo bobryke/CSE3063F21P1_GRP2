@@ -21,8 +21,10 @@ import table.WeeklyScheduleTable;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+import java.util.logging.Logger;
 
 public class StudentWeeklyScheduleController implements Initializable {
+    private static final Logger logger = Logger.getLogger("");
 
     @FXML
     private RegistrationSystem registrationSystem;
@@ -71,6 +73,7 @@ public class StudentWeeklyScheduleController implements Initializable {
         studentName.setText(registrationSystem.getLoggedStudentName());
         semester.setText(registrationSystem.getSemester());
 
+        logger.info("Student "+ registrationSystem.getLoggedStudentID()+ " displayed Weekly Schedule.");
 
         hour.setCellValueFactory(new PropertyValueFactory<WeeklyScheduleTable,String>("hour"));
         monday.setCellValueFactory(new PropertyValueFactory<WeeklyScheduleTable,String>("monday"));
@@ -102,6 +105,7 @@ public class StudentWeeklyScheduleController implements Initializable {
     }
     @FXML
     public void goBackToLogin(ActionEvent event) throws IOException {
+        logger.info("Student "+ registrationSystem.getLoggedStudentID()+ " logged out.");
         FXMLLoader loader = new FXMLLoader(getClass().getResource("studentLoginView.fxml"));
 
         root = loader.load();

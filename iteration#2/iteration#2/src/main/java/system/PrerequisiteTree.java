@@ -4,6 +4,7 @@ import model.Course;
 import model.Student;
 
 import java.util.*;
+import java.util.logging.Logger;
 
 public class PrerequisiteTree {
 
@@ -12,6 +13,7 @@ public class PrerequisiteTree {
     private Map<String,Integer> courseIndex;
     //CourseIndex will help us to construct the tree.
     //We will be able to get children classes of prerequisite classes easily.
+    private static final Logger logger = Logger.getLogger("");
 
     public PrerequisiteTree(ArrayList<Course> courses){
         this.courses = courses;

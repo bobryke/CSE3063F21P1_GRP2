@@ -3,6 +3,7 @@ module CSE3063F21P1_GRP2.CSE3063F21P1_GRP2 {
     requires javafx.fxml;
     requires com.google.gson;
     requires java.desktop;
+    requires java.logging;
 
 
     opens controller to javafx.fxml, com.google.gson;

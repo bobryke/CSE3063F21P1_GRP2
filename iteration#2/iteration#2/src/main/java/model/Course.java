@@ -2,6 +2,7 @@ package model;
 
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.logging.Logger;
 
 public class Course {
     private Integer registeredStudents;
