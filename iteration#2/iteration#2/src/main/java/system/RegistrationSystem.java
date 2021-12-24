@@ -1,14 +1,8 @@
 package system;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import dto.StudentDto;
 import model.Course;
 import model.Student;
 import model.StudentTranscript;
-
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 import java.util.logging.Logger;
@@ -303,7 +297,7 @@ public class RegistrationSystem {
                 }
             }
         }
-        logger.info("Available Students fetched for student "+ student.getStudentID());
+        logger.info("Available courses are fetched for the student "+ student.getStudentID());
         return availableCourses;
     }
 
@@ -403,15 +397,7 @@ public class RegistrationSystem {
         // Write current status of the student to json file
         logger.info("Student "+loggedStudent.getStudentID()+" successfully registered to selected courses.");
 
-        String pathName = loggedStudent.getStudentID() + "after";
-        FileWriter writer = new FileWriter("iteration#2"+ File.separator+"iteration#2"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName+".json");
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-
-        StudentDto studentDto = new StudentDto(loggedStudent);
-        //With this single line of code Student object is converted to StudentDto object.
-        //Now we are ready to write the student.
-        gson.toJson(studentDto,writer);
-        writer.close();
+        university.updateStudent(loggedStudent);
 
         return "success";
     }

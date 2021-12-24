@@ -44,11 +44,23 @@ public class University {
         studentNames = new ArrayList<String>();
     }
 
+    public void updateStudent(Student loggedStudent) throws IOException {
+        String pathName = loggedStudent.getStudentID() + "after";
+        FileWriter writer = new FileWriter("iteration#2" + File.separator + "iteration#2" + File.separator + "data"+ File.separator +"student"+ File.separator +pathName+".json");
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
+        StudentDto studentDto = new StudentDto(loggedStudent);
+        //With this single line of code Student object is converted to StudentDto object.
+        //Now we are ready to write the student.
+        gson.toJson(studentDto,writer);
+        writer.close();
+    }
+
     public void registerStudent(Student student) throws IOException {
 
         students.add(student);
         String pathName = student.getStudentID() + "before";
-        FileWriter writer = new FileWriter("iteration#2"+ File.separator+"iteration#2"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName+".json");
+        FileWriter writer = new FileWriter("iteration#2" + File.separator + "iteration#2"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName+".json");
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
 
@@ -66,7 +78,7 @@ public class University {
     public void readAllInput() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         //+ File.separator +
-        Reader reader = Files.newBufferedReader(Paths.get("iteration#2"+ File.separator + "iteration#2"+ File.separator +"data"+ File.separator +"input.json"));
+        Reader reader = Files.newBufferedReader(Paths.get("iteration#2" + File.separator + "iteration#2"+ File.separator +"data"+ File.separator +"input.json"));
 
         Map<?,?> map = gson.fromJson(reader,Map.class);
 

@@ -1,0 +1,484 @@
+Dec 24, 2021 7:58:27 PM controller.WelcomeController springButton
+INFO: Spring semester selected
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119000 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119001 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117000 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119002 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118000 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119003 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120000 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117001 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117002 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118001 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119004 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120001 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120002 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120003 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118002 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118003 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120004 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119005 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119006 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120005 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117003 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118004 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117004 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117005 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119007 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120006 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119008 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117006 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119009 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119010 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119011 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119012 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118005 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118006 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117007 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120007 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118007 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118008 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120008 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118009 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118010 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120009 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119013 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119014 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120010 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117008 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118011 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119015 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118012 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119016 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118013 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119017 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119018 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117009 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119019 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119020 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118014 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117010 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118015 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118016 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118017 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117011 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119021 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119022 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119023 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117012 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118018 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118019 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117013 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117014 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118020 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120011 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118021 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120012 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120013 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119024 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118022 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120014 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119025 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119026 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120015 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118023 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117015 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119027 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119028 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118024 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119029 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120016 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117016 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120017 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120018 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118025 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119030 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119031 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118026 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120019 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120020 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118027 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120021 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117017 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119032 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117018 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118028 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118029 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119033 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118030 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117019 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118031 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117020 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120022 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118032 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119034 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120023 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120024 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120025 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118033 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119035 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118034 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119036 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119037 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117021 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119038 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118035 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117022 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117023 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120026 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118036 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120027 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119039 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117024 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118037 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120028 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118038 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117025 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119040 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120029 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117026 registered.
+Dec 24, 2021 7:58:27 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119041 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117027 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117028 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118039 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117029 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117030 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119042 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120030 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117031 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119043 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120031 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118040 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119044 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117032 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120032 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119045 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120033 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117033 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118041 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119046 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117034 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120034 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117035 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118042 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117036 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118043 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120035 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118044 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119047 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119048 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118045 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118046 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118047 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119049 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117037 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117038 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118048 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118049 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117039 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119050 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117040 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117041 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119051 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118050 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120036 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120037 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117042 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119052 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119053 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120038 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118051 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119054 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120039 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118052 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120040 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119055 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117043 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119056 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120041 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117044 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117045 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117046 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118053 registered.
+Dec 24, 2021 7:58:28 PM system.RegistrationSystem createEverything
+INFO: Total number of registered students:200
+Dec 24, 2021 7:58:34 PM controller.StudentLoginController goToMainMenu
+INFO: Successful login. Provided student number is: 150117001
+Dec 24, 2021 7:58:37 PM controller.StudentTranscriptController listOptions
+INFO: Student 150117001 displayed Transcript
+Dec 24, 2021 7:58:41 PM controller.MainMenuController goBackToLogin
+INFO: Student 150117001 logged out.
+Dec 24, 2021 7:59:07 PM controller.StudentLoginController goToMainMenu
+INFO: Successful login. Provided student number is: 150117011
+Dec 24, 2021 7:59:17 PM system.RegistrationSystem getAvailableCourses
+INFO: Available courses are fetched for the student 150117011
+Dec 24, 2021 7:59:24 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected TRD122
+Dec 24, 2021 7:59:24 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected NTE1016
+Dec 24, 2021 7:59:24 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected ME4018
+Dec 24, 2021 7:59:24 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected CSE4085
+Dec 24, 2021 7:59:24 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected CSE4059
+Dec 24, 2021 7:59:24 PM system.RegistrationSystem sendSelectionAdvisorVerification
+INFO: Student 150117011 has sent the selected to courses to the advisor.
+Dec 24, 2021 7:59:24 PM system.RegistrationSystem makeSelection
+INFO: Student 150117011 successfully registered to selected courses.
+Dec 24, 2021 7:59:27 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected CSE4298
+Dec 24, 2021 7:59:27 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected ISG122
+Dec 24, 2021 7:59:27 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150117011 has selected CSE4034
+Dec 24, 2021 7:59:27 PM system.RegistrationSystem sendSelectionAdvisorVerification
+INFO: Student 150117011 has sent the selected to courses to the advisor.
+Dec 24, 2021 7:59:27 PM system.RegistrationSystem makeSelection
+INFO: Student 150117011 successfully registered to selected courses.
+Dec 24, 2021 7:59:29 PM controller.StudentWeeklyScheduleController listOptions
+INFO: Student 150117011 displayed Weekly Schedule.
+Dec 24, 2021 7:59:31 PM controller.StudentWeeklyScheduleController goBackToLogin
+INFO: Student 150117011 logged out.
+Dec 24, 2021 7:59:35 PM com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+INFO: Could not load @font-face font [https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap]
+Dec 24, 2021 7:59:53 PM controller.StudentLoginController goToMainMenu
+INFO: Successful login. Provided student number is: 150118021
+Dec 24, 2021 7:59:55 PM controller.StudentWeeklyScheduleController listOptions
+INFO: Student 150118021 displayed Weekly Schedule.
+Dec 24, 2021 7:59:57 PM controller.StudentWeeklyScheduleController goBackToLogin
+INFO: Student 150118021 logged out.
+Dec 24, 2021 8:00:02 PM controller.StudentLoginController goToMainMenu
+INFO: Successful login. Provided student number is: 150117001
+Dec 24, 2021 8:00:03 PM controller.StudentWeeklyScheduleController listOptions
+INFO: Student 150117001 displayed Weekly Schedule.
+Dec 24, 2021 8:00:05 PM controller.StudentWeeklyScheduleController goBackToLogin
+INFO: Student 150117001 logged out.
+Dec 24, 2021 8:00:08 PM controller.StudentLoginController goToMainMenu
+WARNING: Login failed. Provided student number is: 1123
+Dec 24, 2021 8:00:14 PM controller.StudentLoginController goToMainMenu
+INFO: Successful login. Provided student number is: 150120001
+Dec 24, 2021 8:00:15 PM system.RegistrationSystem getAvailableCourses
+INFO: Available courses are fetched for the student 150120001
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected ATA122
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected CSE1242
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected MATH1002
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected MATH2256
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected PHYS1102
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected PHYS1104
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected TRD122
+Dec 24, 2021 8:00:21 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150120001 has selected NTE1006
+Dec 24, 2021 8:00:21 PM system.RegistrationSystem sendSelectionAdvisorVerification
+INFO: Student 150120001 has sent the selected to courses to the advisor.
+Dec 24, 2021 8:00:21 PM system.RegistrationSystem makeSelection
+INFO: Student 150120001 successfully registered to selected courses.
+Dec 24, 2021 8:00:23 PM controller.StudentCourseSelectController goBackToLogin
+INFO: Student 150120001 logged out.
