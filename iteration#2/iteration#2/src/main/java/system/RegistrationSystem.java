@@ -23,6 +23,8 @@ public class RegistrationSystem {
     private Integer students2018;
     private Integer students2019;
     private Integer students2020;
+
+
     private static final Logger logger = Logger.getLogger("");
 
     public RegistrationSystem(String semester) throws IOException {
@@ -50,7 +52,7 @@ public class RegistrationSystem {
         //Randomly create all the students and add them to the university.
         //University part will take the rest, it will create a json file for each randomly created student.
         //Create randomly 270 students.
-        for(int i=0;i<270;i++){
+        for(int i=0;i<200;i++){
             university.registerStudent(createRandomStudent());
         }
         logger.info("Total number of registered students:"+ university.getAllStudents().size());
@@ -132,7 +134,7 @@ public class RegistrationSystem {
         in different simulation.
         */
         if(semester.equals("Spring")){
-            studentSemester = 2*(rand.nextInt(5)); //second,fourth,sixth,eighth
+            studentSemester = 2*(rand.nextInt(4)+1); //second,fourth,sixth,eighth
         }
         else{
             studentSemester = 2*(rand.nextInt(4))+1; //first,third,fifth,seventh
