@@ -1,9 +1,14 @@
 package system;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import dto.StudentDto;
 import model.Course;
 import model.Student;
 import model.StudentTranscript;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 import java.util.logging.Logger;
@@ -18,6 +23,8 @@ public class RegistrationSystem {
     private Integer students2018;
     private Integer students2019;
     private Integer students2020;
+
+
     private static final Logger logger = Logger.getLogger("");
 
     public RegistrationSystem(String semester) throws IOException {
@@ -45,7 +52,7 @@ public class RegistrationSystem {
         //Randomly create all the students and add them to the university.
         //University part will take the rest, it will create a json file for each randomly created student.
         //Create randomly 270 students.
-        for(int i=0;i<270;i++){
+        for(int i=0;i<200;i++){
             university.registerStudent(createRandomStudent());
         }
         logger.info("Total number of registered students:"+ university.getAllStudents().size());
@@ -127,7 +134,7 @@ public class RegistrationSystem {
         in different simulation.
         */
         if(semester.equals("Spring")){
-            studentSemester = 2*(rand.nextInt(5)); //second,fourth,sixth,eighth
+            studentSemester = 2*(rand.nextInt(4)+1); //second,fourth,sixth,eighth
         }
         else{
             studentSemester = 2*(rand.nextInt(4))+1; //first,third,fifth,seventh
@@ -329,7 +336,7 @@ public class RegistrationSystem {
         return student.getStudentAdvisor().verifyStudentRegistration(student,selectedCourses);
     }
 
-    public String makeSelection(ArrayList<String> courses){
+    public String makeSelection(ArrayList<String> courses) throws IOException {
         ArrayList<Course> coursesSelected = new ArrayList<Course>();
         for(String courseCode:courses){
             Course check = university.getCourseByID(courseCode);
@@ -393,7 +400,19 @@ public class RegistrationSystem {
         for(Course course:coursesSelected){
             loggedStudent.addCourse(course);
         }
+        // Write current status of the student to json file
         logger.info("Student "+loggedStudent.getStudentID()+" successfully registered to selected courses.");
+
+        String pathName = loggedStudent.getStudentID() + "after";
+        FileWriter writer = new FileWriter("iteration#2"+ File.separator+"iteration#2"+ File.separator +"data"+ File.separator +"student"+ File.separator +pathName+".json");
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
+        StudentDto studentDto = new StudentDto(loggedStudent);
+        //With this single line of code Student object is converted to StudentDto object.
+        //Now we are ready to write the student.
+        gson.toJson(studentDto,writer);
+        writer.close();
+
         return "success";
     }
 }
