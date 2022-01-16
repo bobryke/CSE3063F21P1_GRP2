@@ -1,0 +1,38 @@
+{
+  "studentName": "Marcel Okura",
+  "studentID": "150119024",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.360655737704918,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:DC",
+      "CSE1200:DC",
+      "CSE1241:BB",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:BB",
+      "TRD121:FF",
+      "ATA122:BB",
+      "CSE1242:CB",
+      "MATH1002:DC",
+      "MATH2256:CC",
+      "PHYS1102:BA",
+      "PHYS1104:CB",
+      "TRD122:AA",
+      "CAS2003:DC"
+    ]
+  }
+}

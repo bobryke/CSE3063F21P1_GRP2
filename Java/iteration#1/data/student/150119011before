@@ -1,0 +1,38 @@
+{
+  "studentName": "Von Lisowski",
+  "studentID": "150119011",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.237704918032787,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:AA",
+      "CSE1200:CC",
+      "CSE1241:CC",
+      "MATH1001:DC",
+      "PHYS1101:CB",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:DC",
+      "MATH1002:FD",
+      "MATH2256:BA",
+      "PHYS1102:DC",
+      "PHYS1104:BA",
+      "TRD122:DC",
+      "OB3043:CC"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "studentName": "Loise Decroo",
+  "studentID": "150119023",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.762295081967213,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:FF",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:DD",
+      "PHYS1103:BA",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:AA",
+      "MATH1002:CB",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:DC",
+      "TRD122:CC",
+      "YDF1002:CB"
+    ]
+  }
+}

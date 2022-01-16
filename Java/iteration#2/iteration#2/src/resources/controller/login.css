@@ -1,0 +1,78 @@
+/* @font-face {
+  font-family: "Poppins";
+  src: url("./fonts//Poppins-Medium.ttf");
+} */
+
+AnchorPane {
+  -fx-font-family: "Poppins";
+  -fx-background-color: linear-gradient(#ffffff 0%, #dbdbdb33 20%);
+  /* -fx-background-image: url("./images/background.jpg"); */
+}
+.header-text {
+  -fx-font-family: "Poppins";
+  -fx-font-weight: bold;
+  -fx-font-size: 25px;
+}
+.enterid {
+  -fx-font-weight: bold;
+  -fx-font-size: 15px;
+}
+.error-message {
+  -fx-text-fill: red;
+  -fx-font-size: 14px;
+  -fx-font-weight: bold;
+}
+
+.login-button {
+  -fx-text-fill: white;
+  -fx-background-radius: 5px;
+  -fx-background-color: #2f3338;
+  -fx-width: 135px;
+  -fx-height: 30px;
+  cursor: pointer;
+  -fx-font-weight: bold;
+  -fx-font-size: 15px;
+}
+
+.login-button:hover {
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 5, 0, 0, 2);
+  -fx-background-color: rgba(240, 242, 245, 0.2);
+  -fx-border-color: #2f3338c7;
+  -fx-border-radius: 5px;
+  -fx-border-width: 2px;
+  -fx-text-fill: #2f3338;
+}
+
+.input-school-id {
+  -fx-font-weight: bold;
+  -fx-background-radius: 5px;
+  -fx-font-size: 13px;
+  -fx-text-fill: #2f3338;
+  -fx-background-color: rgba(47, 51, 56, 0.137), #ffffff70;
+  -fx-background-insets: 1, 2;
+}
+
+.input-school-id:focused {
+  -fx-background-color: rgba(47, 51, 56, 0.295), #ffffffd8;
+}
+
+.input-school-id:hover {
+  -fx-background-color: rgba(47, 51, 56, 0.295), #ffffffd8;
+}
+
+.btn {
+  -fx-font-family: "Poppins";
+  -fx-background-color: transparent;
+  -fx-border-color: #2f33387a;
+  -fx-border-radius: 5px;
+  -fx-border-width: 0px;
+  -fx-text-fill: #2f3338d7;
+  -fx-font-weight: bold;
+  -fx-font-size: 13px;
+  cursor: pointer;
+}
+.btn:hover {
+  -fx-border-width: 2px;
+  -fx-background-color: rgba(240, 242, 245, 0.486);
+  -fx-text-fill: #2f3338;
+}

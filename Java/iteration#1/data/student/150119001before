@@ -1,0 +1,38 @@
+{
+  "studentName": "Hisako Jarrett",
+  "studentID": "150119001",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 2.5737704918032787,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:FF",
+      "CSE1200:CC",
+      "CSE1241:BB",
+      "MATH1001:DC",
+      "PHYS1101:DC",
+      "PHYS1103:CB",
+      "TRD121:DD",
+      "ATA122:BB",
+      "CSE1242:AA",
+      "MATH1002:AA",
+      "MATH2256:BB",
+      "PHYS1102:AA",
+      "PHYS1104:BB",
+      "TRD122:CC",
+      "YDA1003:BB"
+    ]
+  }
+}

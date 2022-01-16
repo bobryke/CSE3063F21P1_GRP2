@@ -1,0 +1,49 @@
+{
+  "studentName": "Kimberli Hammerstrom",
+  "studentID": "150118056",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.6059322033898304,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:AA",
+      "CSE1200:CB",
+      "CSE1241:DC",
+      "MATH1001:DD",
+      "PHYS1101:DC",
+      "PHYS1103:AA",
+      "TRD121:DC",
+      "ATA122:DC",
+      "CSE1242:AA",
+      "MATH1002:BA",
+      "MATH2256:BA",
+      "PHYS1102:AA",
+      "PHYS1104:DD",
+      "TRD122:AA",
+      "SOC3082:BA",
+      "CSE2023:FD",
+      "CSE2225:AA",
+      "ECON2004:DD",
+      "EE2031:BB",
+      "MATH2055:CB",
+      "MATH2059:AA",
+      "CSE2246:CC",
+      "CSE2138:DC",
+      "CSE2260:FF",
+      "EE2032:AA",
+      "STAT2253:AA"
+    ]
+  }
+}

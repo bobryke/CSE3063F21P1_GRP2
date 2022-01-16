@@ -1,0 +1,48 @@
+{
+  "studentName": "Brittney Goforth",
+  "studentID": "150118003",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 1.9464285714285714,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:FF",
+      "CSE1241:FF",
+      "MATH1001:CC",
+      "PHYS1101:DC",
+      "PHYS1103:AA",
+      "TRD121:BA",
+      "ATA122:CB",
+      "MATH1002:CB",
+      "MATH2256:AA",
+      "PHYS1102:CB",
+      "PHYS1104:DD",
+      "TRD122:BA",
+      "CAS2004:BB",
+      "CSE2023:BB",
+      "CSE2225:BB",
+      "ECON2004:DC",
+      "EE2031:DD",
+      "MATH2055:DD",
+      "MATH2059:CC",
+      "CSE2246:DC",
+      "CSE2138:CC",
+      "CSE2260:CC",
+      "EE2032:FF",
+      "STAT2253:FF"
+    ]
+  }
+}

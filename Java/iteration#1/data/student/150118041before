@@ -1,0 +1,49 @@
+{
+  "studentName": "Natacha Morgen",
+  "studentID": "150118041",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 2.2542372881355934,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BA",
+      "MBG1201:DC",
+      "CSE1200:AA",
+      "CSE1241:AA",
+      "MATH1001:CC",
+      "PHYS1101:FF",
+      "PHYS1103:BB",
+      "TRD121:CC",
+      "ATA122:FD",
+      "CSE1242:CC",
+      "MATH1002:BB",
+      "MATH2256:BB",
+      "PHYS1102:DC",
+      "PHYS1104:CB",
+      "TRD122:FD",
+      "NTE1013:BB",
+      "CSE2023:CB",
+      "CSE2225:CC",
+      "ECON2004:CC",
+      "EE2031:BA",
+      "MATH2055:AA",
+      "MATH2059:BB",
+      "CSE2246:BB",
+      "CSE2138:FF",
+      "CSE2260:FD",
+      "EE2032:CB",
+      "STAT2253:DC"
+    ]
+  }
+}

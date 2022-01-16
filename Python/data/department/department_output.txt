@@ -1,0 +1,56 @@
+Total number of students is: 270
+
+ The following 11  students were unable to take TRD121 course due to the course overlaps.
+ ['150120008', '150120011', '150120015', '150120023', '150120039', '150120048', '150120049', '150120050', '150120055', '150120066', '150120069'] 
+
+ The following 1  students were unable to take CSE2023 course due to the course overlaps.
+ ['150119066'] 
+
+ The following 7  students were unable to take CSE2225 course due to the course overlaps.
+ ['150119014', '150119015', '150117010', '150119017', '150119042', '150118043', '150118055'] 
+
+ The following 4  students were unable to take ECON2004 course due to the course overlaps.
+ ['150119021', '150119022', '150119029', '150119062'] 
+
+ The following 20  students were unable to take MATH2055 course due to the course overlaps.
+ ['150119001', '150119004', '150119006', '150119014', '150119015', '150119016', '150119030', '150119032', '150119035', '150119039', '150119041', '150119042', '150119046', '150118047', '150119052', '150119058', '150119059', '150119065', '150119066', '150119067'] 
+
+ The following 13  students were unable to take MATH2059 course due to the course overlaps.
+ ['150119005', '150119021', '150119023', '150119025', '150119029', '150119031', '150118033', '150119042', '150118035', '150119052', '150119057', '150119062', '150119067'] 
+
+ The following 2  students were unable to take CSE3000 course due to the course overlaps.
+ ['150118002', '150118041'] 
+
+ The following 3  students were unable to take CSE3215 course due to the course overlaps.
+ ['150118011', '150118029', '150118039'] 
+
+ The following 8  students were unable to take CSE3033 course due to the course overlaps.
+ ['150118001', '150117022', '150117025', '150117027', '150118027', '150117033', '150118057', '150118065'] 
+
+ The following 2  students were unable to take CSE3055 course due to the course overlaps.
+ ['150117029', '150118057'] 
+
+ The following 2  students were unable to take CSE3063 course due to the course overlaps.
+ ['150117016', '150118049'] 
+
+ The following 7  students were unable to take IE3081 course due to the course overlaps.
+ ['150117001', '150118017', '150118028', '150118032', '150118046', '150118058', '150118065'] 
+
+ The following 2  students were unable to take CSE4000 course due to the course overlaps.
+ ['150117022', '150117034'] 
+
+ The following 1  students were unable to take CSE4074 course due to the course overlaps.
+ ['150117025'] 
+
+ The following 5  students were unable to take CSE4219 course due to the course overlaps.
+ ['150117011', '150117035', '150117037', '150117038', '150117041'] 
+
+ The following 2  students were unable to take CSE4297 course due to the course overlaps.
+ ['150117057', '150117058'] 
+
+ The following 6  students were unable to take CSE4288 course due to the course overlaps.
+ ['150117001', '150117010', '150117030', '150117043', '150117045', '150117057'] 
+
+ The course selection of the following 23 students remained in the draft because their advisors did not approve.
+ ['150117000', '150117001', '150117004', '150117007', '150118009', '150117010', '150117012', '150117017', '150117020', '150117022', '150117024', '150117030', '150117032', '150117034', '150117037', '150117038', '150118036', '150118037', '150117042', '150117043', '150118052', '150117055', '150117060'] 
+

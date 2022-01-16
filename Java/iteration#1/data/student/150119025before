@@ -1,0 +1,38 @@
+{
+  "studentName": "Margorie Monforte",
+  "studentID": "150119025",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.6475409836065573,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:FF",
+      "CSE1200:CB",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:CB",
+      "PHYS1103:AA",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:BA",
+      "MATH1002:BB",
+      "MATH2256:DC",
+      "PHYS1102:BA",
+      "PHYS1104:AA",
+      "TRD122:CB",
+      "CAS2001:FF"
+    ]
+  }
+}

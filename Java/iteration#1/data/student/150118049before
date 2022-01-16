@@ -1,0 +1,48 @@
+{
+  "studentName": "Lamont Elbaz",
+  "studentID": "150118049",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.7850877192982457,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:BB",
+      "CSE1200:CC",
+      "CSE1241:CB",
+      "MATH1001:FD",
+      "PHYS1101:DD",
+      "PHYS1103:BB",
+      "TRD121:AA",
+      "ATA122:BB",
+      "CSE1242:BA",
+      "MATH1002:BA",
+      "MATH2256:AA",
+      "PHYS1102:BB",
+      "PHYS1104:DD",
+      "TRD122:CB",
+      "BUS1004:AA",
+      "CSE2023:BA",
+      "CSE2225:AA",
+      "ECON2004:BB",
+      "EE2031:CB",
+      "MATH2055:DC",
+      "CSE2246:CB",
+      "CSE2138:BA",
+      "CSE2260:CC",
+      "EE2032:DC",
+      "STAT2253:AA"
+    ]
+  }
+}

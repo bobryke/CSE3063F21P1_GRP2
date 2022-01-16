@@ -1,0 +1,48 @@
+{
+  "studentName": "Frank Naso",
+  "studentID": "150118044",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.517699115044248,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:CC",
+      "CSE1200:DC",
+      "CSE1241:CC",
+      "MATH1001:AA",
+      "PHYS1101:DC",
+      "PHYS1103:FF",
+      "TRD121:CB",
+      "ATA122:DD",
+      "CSE1242:DC",
+      "MATH1002:CC",
+      "MATH2256:AA",
+      "PHYS1102:FD",
+      "PHYS1104:DD",
+      "TRD122:CB",
+      "CAS2001:BB",
+      "CSE2023:AA",
+      "CSE2225:CC",
+      "ECON2004:AA",
+      "MATH2055:CB",
+      "MATH2059:AA",
+      "CSE2246:AA",
+      "CSE2138:DC",
+      "CSE2260:BB",
+      "EE2032:AA",
+      "STAT2253:CC"
+    ]
+  }
+}

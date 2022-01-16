@@ -1,0 +1,48 @@
+{
+  "studentName": "Matthew Drebes",
+  "studentID": "150118012",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 2.486607142857143,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:BA",
+      "CSE1200:CB",
+      "CSE1241:FD",
+      "MATH1001:AA",
+      "PHYS1101:BB",
+      "PHYS1103:DC",
+      "TRD121:CB",
+      "ATA122:AA",
+      "MATH1002:AA",
+      "MATH2256:CB",
+      "PHYS1102:AA",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "YDF1001:BA",
+      "CSE2023:AA",
+      "CSE2225:CC",
+      "ECON2004:CC",
+      "EE2031:CB",
+      "MATH2055:BA",
+      "MATH2059:FD",
+      "CSE2246:DC",
+      "CSE2138:BA",
+      "CSE2260:FF",
+      "EE2032:CC",
+      "STAT2253:DD"
+    ]
+  }
+}

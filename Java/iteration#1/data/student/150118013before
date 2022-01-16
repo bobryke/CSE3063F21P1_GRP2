@@ -1,0 +1,49 @@
+{
+  "studentName": "Brittney Goforth",
+  "studentID": "150118013",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.3177966101694913,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:DC",
+      "CSE1200:CB",
+      "CSE1241:CB",
+      "MATH1001:BB",
+      "PHYS1101:CB",
+      "PHYS1103:BB",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:DC",
+      "MATH1002:BA",
+      "MATH2256:AA",
+      "PHYS1102:AA",
+      "PHYS1104:FF",
+      "TRD122:CC",
+      "HR4001:AA",
+      "CSE2023:CC",
+      "CSE2225:DD",
+      "ECON2004:DC",
+      "EE2031:AA",
+      "MATH2055:CC",
+      "MATH2059:CC",
+      "CSE2246:CC",
+      "CSE2138:FF",
+      "CSE2260:BB",
+      "EE2032:DC",
+      "STAT2253:BA"
+    ]
+  }
+}

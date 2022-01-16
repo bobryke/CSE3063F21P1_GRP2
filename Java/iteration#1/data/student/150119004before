@@ -1,0 +1,38 @@
+{
+  "studentName": "Martha Woetzel",
+  "studentID": "150119004",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Murat Can GANIZ",
+  "gpa": 2.6721311475409837,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:AA",
+      "CSE1200:CC",
+      "CSE1241:DC",
+      "MATH1001:AA",
+      "PHYS1101:CB",
+      "PHYS1103:FF",
+      "TRD121:DD",
+      "ATA122:AA",
+      "CSE1242:CC",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:BB",
+      "PHYS1104:CB",
+      "TRD122:AA",
+      "CAS1010:BB"
+    ]
+  }
+}

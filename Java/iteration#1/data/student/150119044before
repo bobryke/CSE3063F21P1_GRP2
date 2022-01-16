@@ -1,0 +1,38 @@
+{
+  "studentName": "Jarod Saldivar",
+  "studentID": "150119044",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Mehmet BARAN",
+  "gpa": 2.5655737704918034,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:DC",
+      "CSE1200:DD",
+      "CSE1241:DC",
+      "MATH1001:CB",
+      "PHYS1101:AA",
+      "PHYS1103:BA",
+      "TRD121:AA",
+      "ATA122:CC",
+      "CSE1242:CC",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:FF",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "MRK3084:AA"
+    ]
+  }
+}

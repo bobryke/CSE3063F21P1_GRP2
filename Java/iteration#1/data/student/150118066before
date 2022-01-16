@@ -1,0 +1,49 @@
+{
+  "studentName": "Chester Lattimore",
+  "studentID": "150118066",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.9745762711864407,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:BA",
+      "PHYS1101:BB",
+      "PHYS1103:AA",
+      "TRD121:AA",
+      "ATA122:FF",
+      "CSE1242:AA",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:CC",
+      "PHYS1104:CC",
+      "TRD122:BB",
+      "SOC3082:DC",
+      "CSE2023:BA",
+      "CSE2225:CC",
+      "ECON2004:CB",
+      "EE2031:BA",
+      "MATH2055:DC",
+      "MATH2059:BB",
+      "CSE2246:AA",
+      "CSE2138:CB",
+      "CSE2260:DC",
+      "EE2032:BA",
+      "STAT2253:AA"
+    ]
+  }
+}

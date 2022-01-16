@@ -1,0 +1,38 @@
+{
+  "studentName": "Virgilio Gelrud",
+  "studentID": "150119008",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Ali Fuat ALKAYA",
+  "gpa": 2.2868852459016393,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:DD",
+      "CSE1200:AA",
+      "CSE1241:BB",
+      "MATH1001:DC",
+      "PHYS1101:DC",
+      "PHYS1103:FF",
+      "TRD121:CC",
+      "ATA122:AA",
+      "CSE1242:DD",
+      "MATH1002:BA",
+      "MATH2256:BB",
+      "PHYS1102:BB",
+      "PHYS1104:FD",
+      "TRD122:AA",
+      "COMM2060:DC"
+    ]
+  }
+}

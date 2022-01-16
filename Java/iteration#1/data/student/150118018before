@@ -1,0 +1,49 @@
+{
+  "studentName": "Wally Bissol",
+  "studentID": "150118018",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof.Dr. Cigdem Eroglu ERDEM",
+  "gpa": 2.5847457627118646,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:FF",
+      "CSE1200:FF",
+      "CSE1241:CC",
+      "MATH1001:BB",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:CB",
+      "ATA122:FF",
+      "CSE1242:CC",
+      "MATH1002:CB",
+      "MATH2256:AA",
+      "PHYS1102:CC",
+      "PHYS1104:BB",
+      "TRD122:DC",
+      "NTE1013:CC",
+      "CSE2023:AA",
+      "CSE2225:BA",
+      "ECON2004:AA",
+      "EE2031:AA",
+      "MATH2055:BB",
+      "MATH2059:CC",
+      "CSE2246:AA",
+      "CSE2138:DC",
+      "CSE2260:BB",
+      "EE2032:BB",
+      "STAT2253:DD"
+    ]
+  }
+}

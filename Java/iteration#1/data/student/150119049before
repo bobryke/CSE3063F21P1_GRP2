@@ -1,0 +1,38 @@
+{
+  "studentName": "Bert Datta",
+  "studentID": "150119049",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 3.1147540983606556,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CB",
+      "MBG1201:AA",
+      "CSE1200:BB",
+      "CSE1241:DD",
+      "MATH1001:BA",
+      "PHYS1101:BB",
+      "PHYS1103:FF",
+      "TRD121:BB",
+      "ATA122:AA",
+      "CSE1242:AA",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:AA",
+      "PHYS1104:DC",
+      "TRD122:FD",
+      "IKT1054:AA"
+    ]
+  }
+}

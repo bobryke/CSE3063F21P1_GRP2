@@ -1,0 +1,48 @@
+{
+  "studentName": "Linwood Koble",
+  "studentID": "150118043",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.6238938053097347,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:DC",
+      "MATH1001:CC",
+      "PHYS1101:BA",
+      "PHYS1103:BB",
+      "TRD121:CB",
+      "ATA122:CB",
+      "CSE1242:CB",
+      "MATH1002:BA",
+      "MATH2256:DC",
+      "PHYS1102:CB",
+      "PHYS1104:DC",
+      "TRD122:AA",
+      "YDA1001:AA",
+      "CSE2023:CB",
+      "CSE2225:BB",
+      "ECON2004:BA",
+      "EE2031:FD",
+      "MATH2055:CB",
+      "MATH2059:BA",
+      "CSE2246:AA",
+      "CSE2138:CC",
+      "CSE2260:DD",
+      "STAT2253:CB"
+    ]
+  }
+}

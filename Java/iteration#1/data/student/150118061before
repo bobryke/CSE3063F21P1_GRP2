@@ -1,0 +1,48 @@
+{
+  "studentName": "Nathanael Silvio",
+  "studentID": "150118061",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.236842105263158,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:AA",
+      "CSE1200:AA",
+      "CSE1241:CC",
+      "MATH1001:FF",
+      "PHYS1101:DD",
+      "PHYS1103:DD",
+      "TRD121:BB",
+      "ATA122:BB",
+      "CSE1242:DC",
+      "MATH1002:CC",
+      "MATH2256:CB",
+      "PHYS1102:CC",
+      "PHYS1104:BA",
+      "TRD122:BB",
+      "CAS2003:AA",
+      "CSE2023:FF",
+      "CSE2225:AA",
+      "ECON2004:BA",
+      "EE2031:CB",
+      "MATH2055:CB",
+      "CSE2246:DC",
+      "CSE2138:DC",
+      "CSE2260:DC",
+      "EE2032:AA",
+      "STAT2253:CB"
+    ]
+  }
+}

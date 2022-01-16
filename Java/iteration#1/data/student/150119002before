@@ -1,0 +1,37 @@
+{
+  "studentName": "Kristin Crabbe",
+  "studentID": "150119002",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Sanem Arslan",
+  "gpa": 2.3727272727272726,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:FF",
+      "MBG1201:BB",
+      "CSE1200:AA",
+      "CSE1241:FF",
+      "MATH1001:DC",
+      "PHYS1101:BB",
+      "PHYS1103:DC",
+      "TRD121:AA",
+      "ATA122:DC",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:DC",
+      "PHYS1104:BB",
+      "TRD122:FD",
+      "CAS3044:CB"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "studentName": "Carey Bockelmann",
+  "studentID": "150118058",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Borahan TUMER",
+  "gpa": 2.561946902654867,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:BA",
+      "CSE1200:CC",
+      "CSE1241:CC",
+      "MATH1001:AA",
+      "PHYS1101:DC",
+      "PHYS1103:DC",
+      "TRD121:CB",
+      "ATA122:FD",
+      "CSE1242:BA",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:AA",
+      "PHYS1104:AA",
+      "TRD122:DC",
+      "YDIS1001:CC",
+      "CSE2023:CC",
+      "CSE2225:BB",
+      "ECON2004:DC",
+      "EE2031:FF",
+      "MATH2055:CC",
+      "MATH2059:AA",
+      "CSE2246:CC",
+      "CSE2138:BB",
+      "CSE2260:DC",
+      "STAT2253:BB"
+    ]
+  }
+}

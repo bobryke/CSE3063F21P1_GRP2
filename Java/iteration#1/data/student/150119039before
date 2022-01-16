@@ -1,0 +1,38 @@
+{
+  "studentName": "Marco Glosson",
+  "studentID": "150119039",
+  "studentSemester": 3,
+  "studentAdvisor": "Doc. Dr. Omer KORCAK",
+  "gpa": 2.762295081967213,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DC",
+      "MBG1201:CB",
+      "CSE1200:AA",
+      "CSE1241:BB",
+      "MATH1001:AA",
+      "PHYS1101:DC",
+      "PHYS1103:CC",
+      "TRD121:DD",
+      "ATA122:CC",
+      "CSE1242:BA",
+      "MATH1002:CB",
+      "MATH2256:DD",
+      "PHYS1102:CB",
+      "PHYS1104:AA",
+      "TRD122:AA",
+      "NTE1011:AA"
+    ]
+  }
+}

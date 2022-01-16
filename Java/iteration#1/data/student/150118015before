@@ -1,0 +1,49 @@
+{
+  "studentName": "Mickey Pretzer",
+  "studentID": "150118015",
+  "studentSemester": 5,
+  "studentAdvisor": "Dr. Ogr. Uyesi Betul Demiroz BOZ",
+  "gpa": 2.4491525423728815,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:CC",
+      "CSE1200:CC",
+      "CSE1241:AA",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:BA",
+      "TRD121:BA",
+      "ATA122:CB",
+      "CSE1242:DD",
+      "MATH1002:AA",
+      "MATH2256:CC",
+      "PHYS1102:DC",
+      "PHYS1104:BA",
+      "TRD122:DD",
+      "MRK3084:CC",
+      "CSE2023:CB",
+      "CSE2225:CC",
+      "ECON2004:BB",
+      "EE2031:BB",
+      "MATH2055:AA",
+      "MATH2059:AA",
+      "CSE2246:DD",
+      "CSE2138:CC",
+      "CSE2260:DC",
+      "EE2032:CC",
+      "STAT2253:DD"
+    ]
+  }
+}

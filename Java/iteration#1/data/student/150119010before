@@ -1,0 +1,38 @@
+{
+  "studentName": "Linwood Koble",
+  "studentID": "150119010",
+  "studentSemester": 3,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 3.0327868852459017,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:BB",
+      "MBG1201:DD",
+      "CSE1200:BA",
+      "CSE1241:CB",
+      "MATH1001:AA",
+      "PHYS1101:AA",
+      "PHYS1103:AA",
+      "TRD121:CC",
+      "ATA122:BA",
+      "CSE1242:BB",
+      "MATH1002:AA",
+      "MATH2256:AA",
+      "PHYS1102:CC",
+      "PHYS1104:AA",
+      "TRD122:AA",
+      "NTE1015:FF"
+    ]
+  }
+}

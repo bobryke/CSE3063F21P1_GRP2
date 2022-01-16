@@ -1,0 +1,110 @@
+/* @font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+} */
+
+AnchorPane {
+  /* -fx-background-image: url("./images/background.jpg"); */
+
+  -fx-background-color: linear-gradient(#ffffff 0%, #dbdbdb33 20%);
+}
+
+.header-text {
+  -fx-font-family: "Poppins";
+  -fx-font-weight: bold;
+  -fx-font-size: 17px;
+}
+
+.head-text-cs {
+  -fx-font-weight: bold;
+  -fx-font-size: 20px;
+}
+
+.pp {
+  -fx-background-radius: 5px;
+  -fx-border-radius: 5px;
+  -fx-image: url("./images/unr_random_160817_0304_2mvqp69.png");
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 10, 0, 0, 0);
+}
+
+.label-section {
+  -fx-font-family: "Poppins";
+  -fx-font-weight: bold;
+  -fx-font-size: 16px;
+}
+.label-field {
+  -fx-font-family: "Poppins";
+  -fx-font-size: 17px;
+  
+}
+
+.csbtn {
+  -fx-font-family: "Poppins";
+  -fx-background-color: transparent;
+  -fx-border-color: #2f333852;
+  -fx-border-radius: 5px;
+  -fx-border-width: 0px;
+  -fx-text-fill: #2f3338;
+  -fx-font-weight: bold;
+  -fx-font-size: 13px;
+  cursor: pointer;
+}
+.csbtn:hover {
+  -fx-border-width: 2px;
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.116), 2, 0, 0, 1);
+  -fx-background-color: rgba(240, 242, 245, 0.664);
+}
+
+.label-section {
+  -fx-font-family: "Poppins";
+  -fx-font-weight: bold;
+  -fx-font-size: 13px;
+}
+.label-field {
+  -fx-font-family: "Poppins";
+  -fx-font-size: 14px;
+}
+
+.save {
+  -fx-font-family: "Poppins";
+  -fx-font-weight: bold;
+  -fx-font-size: 12px;
+  cursor: pointer;
+  -fx-background-color: rgba(240, 242, 245, 0.664);
+  -fx-border-color: #2f33382a;
+  -fx-border-radius: 5px;
+  -fx-border-width: 2px;
+  -fx-text-fill: #2f3338;
+}
+.save:hover {
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 3, 0, 0, 1);
+  -fx-background-color: rgba(218, 218, 218, 0.664);
+  -fx-border-color: #2f33389c;
+}
+
+.table-section {
+  -fx-background-color: transparent;
+  -fx-font-size: 13px;
+}
+
+.table-view {
+  -fx-background-color: transparent;
+}
+
+.table-row-cell {
+  -fx-border-color: white;
+  -fx-table-cell-border-color: white;
+}
+
+.table-view:focused {
+  -fx-background-color: transparent;
+}
+
+.table-row-cell:selected {
+  -fx-background-color: #2f3338;
+}
+
+.table-row-cell:selected .text {
+  -fx-font-weight: bold;
+  -fx-fill: white;
+}

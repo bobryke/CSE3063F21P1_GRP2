@@ -1,0 +1,49 @@
+{
+  "studentName": "Marcel Okura",
+  "studentID": "150118031",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mujdat SOYTURK",
+  "gpa": 2.1440677966101696,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:BB",
+      "CSE1241:CB",
+      "MATH1001:DC",
+      "PHYS1101:AA",
+      "PHYS1103:FD",
+      "TRD121:DD",
+      "ATA122:AA",
+      "CSE1242:CC",
+      "MATH1002:DC",
+      "MATH2256:CB",
+      "PHYS1102:DC",
+      "PHYS1104:CC",
+      "TRD122:CC",
+      "SOC3082:AA",
+      "CSE2023:FF",
+      "CSE2225:CB",
+      "ECON2004:DD",
+      "EE2031:CC",
+      "MATH2055:CC",
+      "MATH2059:CB",
+      "CSE2246:BB",
+      "CSE2138:FD",
+      "CSE2260:CC",
+      "EE2032:AA",
+      "STAT2253:DC"
+    ]
+  }
+}

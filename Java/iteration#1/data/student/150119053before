@@ -1,0 +1,37 @@
+{
+  "studentName": "Jules Skevofilakas",
+  "studentID": "150119053",
+  "studentSemester": 3,
+  "studentAdvisor": "Dr. Ogr. Uyesi Ali Haydar OZER",
+  "gpa": 2.118181818181818,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:CC",
+      "MBG1201:AA",
+      "CSE1200:DC",
+      "CSE1241:FF",
+      "MATH1001:AA",
+      "PHYS1101:DD",
+      "PHYS1103:CC",
+      "TRD121:CB",
+      "ATA122:CC",
+      "MATH1002:DC",
+      "MATH2256:DC",
+      "PHYS1102:CC",
+      "PHYS1104:CC",
+      "TRD122:CB",
+      "YDF1001:AA"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "studentName": "Margorie Monforte",
+  "studentID": "150118025",
+  "studentSemester": 5,
+  "studentAdvisor": "Doc. Dr. Mustafa AGAOGLU",
+  "gpa": 2.440677966101695,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:DD",
+      "MBG1201:CC",
+      "CSE1200:BB",
+      "CSE1241:DC",
+      "MATH1001:CC",
+      "PHYS1101:DC",
+      "PHYS1103:BB",
+      "TRD121:FF",
+      "ATA122:BA",
+      "CSE1242:DC",
+      "MATH1002:AA",
+      "MATH2256:BB",
+      "PHYS1102:DD",
+      "PHYS1104:CC",
+      "TRD122:AA",
+      "BUS1003:BA",
+      "CSE2023:CC",
+      "CSE2225:AA",
+      "ECON2004:DC",
+      "EE2031:CC",
+      "MATH2055:AA",
+      "MATH2059:BB",
+      "CSE2246:AA",
+      "CSE2138:FD",
+      "CSE2260:CC",
+      "EE2032:BA",
+      "STAT2253:CB"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.StudentTranscriptController">
+   <children>
+      <TableView fx:id="transcriptTable" layoutX="17.0" layoutY="69.0" prefHeight="513.0" prefWidth="866.0">
+        <columns>
+          <TableColumn fx:id="courseCode" prefWidth="187.0" text="Course Code" />
+          <TableColumn fx:id="courseName" prefWidth="375.0" text="Course Name" />
+            <TableColumn fx:id="credit" prefWidth="148.0" text="Credit | Ects" />
+            <TableColumn fx:id="finalGrade" prefWidth="155.0" text="Letter Final Grade" />
+        </columns>
+      </TableView>
+      <Label layoutX="29.0" layoutY="14.0" text="Student Number:" />
+      <Label layoutX="29.0" layoutY="31.0" text="Name:" />
+      <Label layoutX="350.0" layoutY="14.0" text="Completed Credit:" />
+      <Label layoutX="350.0" layoutY="31.0" text="GPA:" />
+      <Button layoutX="833.0" layoutY="19.0" mnemonicParsing="false" onAction="#goBackToMainMenu" text="Back" />
+      <Label fx:id="studentNumber" layoutX="130.0" layoutY="14.0" text="150120825" />
+      <Label fx:id="studentName" layoutX="76.0" layoutY="31.0" text="Onurcan" />
+      <Label fx:id="completedCredit" layoutX="460.0" layoutY="14.0" text="100" />
+      <Label fx:id="studentGPA" layoutX="387.0" layoutY="31.0" text="3.00" />
+   </children>
+</AnchorPane>

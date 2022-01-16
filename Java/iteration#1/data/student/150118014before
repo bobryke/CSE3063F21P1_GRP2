@@ -1,0 +1,48 @@
+{
+  "studentName": "Milagro Dobric",
+  "studentID": "150118014",
+  "studentSemester": 5,
+  "studentAdvisor": "Prof. Dr. Haluk Rahmi TOCUOGLU",
+  "gpa": 2.4646017699115044,
+  "dtoSchedule": [
+    "               | Monday        | Tuesday       | Wednesday     | Thursday      | Friday        |",
+    " 09:30 - 10:20 |               |               |               |               |               |",
+    " 10:30 - 11:20 |               |               |               |               |               |",
+    " 11:30 - 12:20 |               |               |               |               |               |",
+    " 13:00 - 13:50 |               |               |               |               |               |",
+    " 14:00 - 14:50 |               |               |               |               |               |",
+    " 15:00 - 15:50 |               |               |               |               |               |",
+    " 16:00 - 16:50 |               |               |               |               |               |",
+    " 17:00 - 17:50 |               |               |               |               |               |"
+  ],
+  "studentTranscriptDto": {
+    "letterGrades": [
+      "ATA121:AA",
+      "MBG1201:AA",
+      "CSE1200:DD",
+      "CSE1241:CB",
+      "MATH1001:AA",
+      "PHYS1101:CC",
+      "PHYS1103:DD",
+      "TRD121:BB",
+      "ATA122:AA",
+      "CSE1242:DC",
+      "MATH1002:DC",
+      "MATH2256:DD",
+      "PHYS1102:AA",
+      "PHYS1104:AA",
+      "TRD122:BA",
+      "NTE1012:DC",
+      "CSE2023:CB",
+      "CSE2225:AA",
+      "ECON2004:CC",
+      "EE2031:FF",
+      "MATH2055:CC",
+      "MATH2059:CB",
+      "CSE2246:AA",
+      "CSE2138:DC",
+      "CSE2260:BA",
+      "STAT2253:DC"
+    ]
+  }
+}
